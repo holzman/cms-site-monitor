@@ -1,0 +1,1523 @@
+<DIV id="transfer_data_anchor" style="z-index:0; display:block; position:relative; top:0px; left:0px; height:682px; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+	<DIV id="transfer_data_prod_hour" style="z-index:-10; display:block; position:absolute; top:55px; left:363px; height:624px; width:460px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:460px; height:624px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default" style="color:black; background-color:#20B2AA;">
+				<td class="mon_default" style="width:82px; height:16px;">-</td>
+				<td class="mon_default" style="width:82px; height:16px;">-</td>
+				<td class="mon_default" style="width:82px; height:16px;">-</td>
+				<td class="mon_default" style="width:82px; height:16px;">-</td>
+				<td class="mon_default" style="width:82px; height:16px;">-</td>
+			</tr>
+		</table>
+	</DIV>
+	<DIV id="transfer_data_load_hour" style="z-index:-10; display:block; position:absolute; top:55px; left:363px; height:624px; width:460px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:460px; height:624px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">1.5 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">5.1 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">2</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">753.0 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">2.6 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">1</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default" style="color:black; background-color:#20B2AA;">
+				<td class="mon_default" style="width:82px; height:16px;">2.2 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px;">7.7 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px;">3</td>
+				<td class="mon_default" style="width:82px; height:16px;">0</td>
+				<td class="mon_default" style="width:82px; height:16px;">0</td>
+			</tr>
+		</table>
+	</DIV>
+	<DIV id="transfer_data_prod_day" style="z-index:10; display:block; position:absolute; top:55px; left:363px; height:624px; width:460px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:460px; height:624px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">6.1 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">512.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">168</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">1</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">3</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">3.3 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">279.3 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">86</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">2</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">2.1 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">175.5 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">54</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default" style="color:black; background-color:#20B2AA;">
+				<td class="mon_default" style="width:82px; height:16px;">11.5 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px;">966.8 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px;">308</td>
+				<td class="mon_default" style="width:82px; height:16px;">1</td>
+				<td class="mon_default" style="width:82px; height:16px;">5</td>
+			</tr>
+		</table>
+	</DIV>
+	<DIV id="transfer_data_load_day" style="z-index:-10; display:block; position:absolute; top:55px; left:363px; height:624px; width:460px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:460px; height:624px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">91.0 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">7.5 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">3</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">242.7 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">20.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">8</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">242.9 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">20.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">8</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">2</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">223.1 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">18.4 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">8</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">242.4 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">20.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">8</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">242.7 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">20.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">8</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">242.7 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">20.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">8</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">2.1 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">174.1 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">68</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">869.3 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">71.6 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">28</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">121.4 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">10.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">4</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">2</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">126.8 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">10.4 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">4</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">121.4 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">10.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">4</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default" style="color:black; background-color:#20B2AA;">
+				<td class="mon_default" style="width:82px; height:16px;">4.8 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px;">402.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px;">159</td>
+				<td class="mon_default" style="width:82px; height:16px;">0</td>
+				<td class="mon_default" style="width:82px; height:16px;">4</td>
+			</tr>
+		</table>
+	</DIV>
+	<DIV id="transfer_data_prod_week" style="z-index:-10; display:block; position:absolute; top:55px; left:363px; height:624px; width:460px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:460px; height:624px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">141.2 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">81.5 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">32</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">903.1 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">520.9 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">207</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">1</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">12</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">484.3 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">279.3 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">86</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">2</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">304.2 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">175.5 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">54</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default" style="color:black; background-color:#20B2AA;">
+				<td class="mon_default" style="width:82px; height:16px;">1.8 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px;">1.0 TiB</td>
+				<td class="mon_default" style="width:82px; height:16px;">379</td>
+				<td class="mon_default" style="width:82px; height:16px;">1</td>
+				<td class="mon_default" style="width:82px; height:16px;">14</td>
+			</tr>
+		</table>
+	</DIV>
+	<DIV id="transfer_data_load_week" style="z-index:-10; display:block; position:absolute; top:55px; left:363px; height:624px; width:460px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:460px; height:624px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">130.0 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">75.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">30</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">277.4 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">160.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">64</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">13</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">277.9 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">160.3 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">64</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">3</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">271.1 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">156.4 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">68</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">1</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">277.3 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">159.9 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">64</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">277.4 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">160.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">64</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">277.4 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">160.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">64</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">2.3 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">1.4 TiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">542</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">2</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">966.9 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">557.7 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">218</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">130.0 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">75.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">30</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">2</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">142.0 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">81.9 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">31</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">130.0 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">75.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">30</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default" style="color:black; background-color:#20B2AA;">
+				<td class="mon_default" style="width:82px; height:16px;">5.4 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px;">3.2 TiB</td>
+				<td class="mon_default" style="width:82px; height:16px;">1,269</td>
+				<td class="mon_default" style="width:82px; height:16px;">0</td>
+				<td class="mon_default" style="width:82px; height:16px;">21</td>
+			</tr>
+		</table>
+	</DIV>
+	<DIV id="transfer_data_prod_month" style="z-index:-10; display:block; position:absolute; top:55px; left:363px; height:624px; width:460px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:460px; height:624px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">19.3 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">47.8 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">22</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">33.0 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">81.5 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">32</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">1.2 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">3.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">1</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">10</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">13.8 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">34.1 TiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">12,666</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">4</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">367</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">113.0 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">279.3 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">86</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">2</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">44.5 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">110.1 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">44</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">11</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">9</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">78.7 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">194.5 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">67</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">9</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">71.0 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">175.5 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">56</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">4.4 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">11.0 TiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">3,247</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">42</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default" style="color:black; background-color:#20B2AA;">
+				<td class="mon_default" style="width:82px; height:16px;">18.6 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px;">46.0 TiB</td>
+				<td class="mon_default" style="width:82px; height:16px;">16,221</td>
+				<td class="mon_default" style="width:82px; height:16px;">15</td>
+				<td class="mon_default" style="width:82px; height:16px;">439</td>
+			</tr>
+		</table>
+	</DIV>
+	<DIV id="transfer_data_load_month" style="z-index:-10; display:block; position:absolute; top:55px; left:363px; height:624px; width:460px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_inner" style="width:460px; height:624px;">
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">106.2 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">262.5 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">105</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">1</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">6</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">226.5 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">560.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">224</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">2</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">22</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">227.0 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">561.1 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">224</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">12</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">221.4 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">547.4 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">238</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">11</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">228.5 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">564.8 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">226</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">8</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">206.3 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">510.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">204</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">4</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">67</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">228.6 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">565.0 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">226</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">0</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">14</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">1.9 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">4.7 TiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">1,882</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">7</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">68</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">771.9 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">1.9 TiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">746</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">4</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">110</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">104.2 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">257.5 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">103</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">1</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">19</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">113.9 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">281.6 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">106</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">1</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">7</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">108.2 KiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">267.5 GiB</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">107</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">1</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">4</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#B3F3F0">-</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:#E9FBFA">-</td>
+			</tr>
+			<tr class="mon_default" style="color:black; background-color:#20B2AA;">
+				<td class="mon_default" style="width:82px; height:16px;">4.4 MiB/s</td>
+				<td class="mon_default" style="width:82px; height:16px;">10.9 TiB</td>
+				<td class="mon_default" style="width:82px; height:16px;">4,391</td>
+				<td class="mon_default" style="width:82px; height:16px;">21</td>
+				<td class="mon_default" style="width:82px; height:16px;">348</td>
+			</tr>
+		</table>
+	</DIV>
+	<DIV style="z-index:0; display:block; position:static; height:682px; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+		<table class="mon_default" style="width:826px; height:682px;">
+			<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+				<td class="mon_default" id="transfer_data_mode_select_prod" style="width:82px; height:16px; color:black; background-color:#3BB9FF; cursor:pointer;" onClick="javascript:TransferDataModeSelect(0);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(TransferDataModeIndex!=0)this.style.backgroundColor='#FFFFFF';">&darr; Production</td>
+				<td class="mon_default" style="width:166px; height:16px;">PhEDEx Data Transfers</td>
+				<td class="mon_default" id="transfer_data_mode_select_load" style="width:82px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:TransferDataModeSelect(1);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(TransferDataModeIndex!=1)this.style.backgroundColor='#FFFFFF';">Load Test &darr;</td>
+				<td class="mon_default" style="width:82px; height:16px;">&larr; Select &rarr;</td>
+				<td class="mon_default" id="transfer_data_span_select_hour" style="width:82px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:TransferDataSpanSelect(0);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(TransferDataSpanIndex!=0)this.style.backgroundColor='#FFFFFF';">Hour</td>
+				<td class="mon_default" id="transfer_data_span_select_day" style="width:82px; height:16px; color:black; background-color:#3BB9FF; cursor:pointer;" onClick="javascript:TransferDataSpanSelect(1);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(TransferDataSpanIndex!=1)this.style.backgroundColor='#FFFFFF';">Day</td>
+				<td class="mon_default" id="transfer_data_span_select_week" style="width:82px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:TransferDataSpanSelect(2);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(TransferDataSpanIndex!=2)this.style.backgroundColor='#FFFFFF';">Week</td>
+				<td class="mon_default" id="transfer_data_span_select_month" style="width:82px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:TransferDataSpanSelect(3);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:if(TransferDataSpanIndex!=3)this.style.backgroundColor='#FFFFFF';">Month</td>
+			</tr>
+			<tr class="mon_default" style="color:black; background-color:#20B2AA;">
+				<td class="mon_default" style="width:82px; height:16px;">Link Status</td>
+				<td class="mon_default" style="width:166px; height:16px;">Linked Node</td>
+				<td class="mon_default" style="width:82px; height:16px;">Link Status</td>
+				<td class="mon_default" style="width:82px; height:16px;">Rate</td>
+				<td class="mon_default" style="width:82px; height:16px;">Bytes</td>
+				<td class="mon_default" style="width:82px; height:16px;">Files</td>
+				<td class="mon_default" style="width:82px; height:16px;">Expired</td>
+				<td class="mon_default" style="width:82px; height:16px;">Errors</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#E9FBFA;">T1_CH_CERN_Buffer</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:450px; height:588px; color:black; background-color:white;" colspan="5" rowspan="24"></td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#B3F3F0;">T1_DE_KIT_Buffer</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#E9FBFA;">T1_ES_PIC_Buffer</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#B3F3F0;">T1_FR_CCIN2P3_Buffer</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#E9FBFA;">T1_IT_CNAF_Buffer</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#B3F3F0;">T1_TW_ASGC_Buffer</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#E9FBFA;">T1_UK_RAL_Buffer</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#B3F3F0;">T1_US_FNAL_Buffer</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#E9FBFA;">T2_BE_IIHE</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#B3F3F0;">T2_FR_IPHC</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#E9FBFA;">T2_IT_Pisa</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#B3F3F0;">T2_UK_London_IC</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#E9FBFA;">T2_US_Caltech</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#B3F3F0;">T2_US_Florida</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#E9FBFA;">T2_US_MIT</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#B3F3F0;">T2_US_Nebraska</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#E9FBFA;">T2_US_Purdue</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#B3F3F0;">T2_US_UCSD</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#E9FBFA;">T2_US_Vanderbilt</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#B3F3F0;">T2_US_Wisconsin</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#E9FBFA;">T3_US_Colorado</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#B3F3F0;">T3_US_Rice</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+			</tr>
+			<tr class="mon_default">
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:green;">Valid</td>
+				<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#E9FBFA;">T3_US_TTU</td>
+				<td class="mon_default" style="width:82px; height:16px; color:black; background-color:orange;">Excluded</td>
+			</tr>
+
+			<tr class="mon_default">
+				<td class="mon_default" style="color:black; background-color:#20B2AA; width:350px; height:16px;" colspan="3">Totals</td>
+			</tr>
+		</table>
+	</DIV>
+</DIV>
+

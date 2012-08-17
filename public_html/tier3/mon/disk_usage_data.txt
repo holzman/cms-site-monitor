@@ -1,0 +1,72 @@
+<!DU!>
+1319458136	/fdata/hepx/store/user/Diamond
+520167	/fdata/hepx/store/user/dcruz
+10739661	/fdata/hepx/store/user/grace
+22934155316	/fdata/hepx/store/user/rjmhrj
+47578190	/fdata/hepx/store/user/gurrola
+3449457199	/fdata/hepx/store/user/cjd847
+933796261	/fdata/hepx/store/user/sakuma
+19266223	/fdata/hepx/store/user/vaikunth
+286463542	/fdata/hepx/store/user/syeager
+0	/fdata/hepx/store/user/willhf
+222502	/fdata/hepx/store/user/flanagaw
+2	/fdata/hepx/store/user/cdavis
+195416605	/fdata/hepx/store/user/isuarez
+74550	/fdata/hepx/store/user/daniel.cruz
+10570269	/fdata/hepx/store/user/tatarinov
+1245628396	/fdata/hepx/store/user/aperloff
+500183453	/fdata/hepx/store/user/khotilov
+511076480	/fdata/hepx/store/user/jkroe
+31464606948	/fdata/hepx/store/user
+9358767	/fdata/hepx/store/generator/Summer12
+9358768	/fdata/hepx/store/generator
+2	/fdata/hepx/store/temp/user
+2	/fdata/hepx/store/temp
+4006863	/fdata/hepx/store/relval/CMSSW_4_4_2
+2	/fdata/hepx/store/relval/BeamCommissioning09
+2	/fdata/hepx/store/relval/CMSSW_4_2_8
+4006867	/fdata/hepx/store/relval
+6	/fdata/hepx/store/unmerged/SAM
+7	/fdata/hepx/store/unmerged
+3	/fdata/hepx/store/Generators/2008
+3	/fdata/hepx/store/Generators
+2	/fdata/hepx/store/data/Fall11
+17	/fdata/hepx/store/data/Run2011B
+5753651202	/fdata/hepx/store/data/Run2012B
+4	/fdata/hepx/store/data/Run2012C
+11	/fdata/hepx/store/data/Run2011A
+30059	/fdata/hepx/store/data/Run2012A
+5753681295	/fdata/hepx/store/data
+16227709	/fdata/hepx/store/mc/SAM
+50087662	/fdata/hepx/store/mc/Fall11
+2	/fdata/hepx/store/mc/Spring11
+12981411014	/fdata/hepx/store/mc/Summer12
+9833247	/fdata/hepx/store/mc/Summer11
+167370847	/fdata/hepx/store/mc/HC
+13224930480	/fdata/hepx/store/mc
+1	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_US_Nebraska
+1	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_US_Purdue
+465154	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_CH_CERN
+1	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_US_Vanderbilt
+2350338	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_US_FNAL
+1	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_UK_RAL
+2	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_IT_CNAF
+1668002	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_US_Caltech
+1	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_US_Wisconsin
+4248834	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_DE_KIT
+891842	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_ES_PIC
+517634	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_TW_ASGC
+983366	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_FR_CCIN2P3
+525570	/fdata/hepx/store/PhEDEx_LoadTest07/LoadTest07_Debug_US_Florida
+11650742	/fdata/hepx/store/PhEDEx_LoadTest07
+50468235112	/fdata/hepx/store
+<!DU_DENIED!>
+<!DU_ERRORS!>
+0
+<!DU_DELAY!>
+0
+<!DU_TIME!>
+1345225214	2:28.14	19%	0	0
+<!DU_QUERY!>
+/usr/bin/du --max-depth=2 /fdata/hepx/store
+<!NULL!>

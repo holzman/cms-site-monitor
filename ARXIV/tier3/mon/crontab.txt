@@ -1,0 +1,26 @@
+# m h dom mon dow command
+
+0,10,15,20,25,30,40,45,50,55 * * * * /home/websites/collider/cgi-bin/tier3/mon/grab_brazos_data.pl
+
+5 * * * * /home/websites/collider/cgi-bin/tier3/mon/refresh_index.pl log
+
+10 8,20 * * * /home/websites/collider/cgi-bin/tier3/mon/refresh_users.pl
+
+15 0,6,12,18 * * * /home/websites/collider/cgi-bin/tier3/mon/grab_transfer_plot.pl day
+
+20 0,6,12,18 * * * /home/websites/collider/cgi-bin/tier3/mon/grab_job_plot.pl day
+
+25 0,6,12,18 * * * /home/websites/collider/cgi-bin/tier3/mon/grab_subscription_plot.pl day
+
+30 0,6,12,18 * * * /home/websites/collider/cgi-bin/tier3/mon/grab_user_plot_data.pl week
+
+35 * * * * /home/websites/collider/cgi-bin/tier3/mon/refresh_index.pl
+
+40 0,6,12,18 * * * /home/websites/collider/cgi-bin/tier3/mon/grab_brazos_data.pl du
+
+45 0 * * * /home/websites/collider/cgi-bin/tier3/mon/grab_transfer_plot.pl week
+
+50 0 * * * /home/websites/collider/cgi-bin/tier3/mon/grab_job_plot.pl week
+
+55 0 * * * /home/websites/collider/cgi-bin/tier3/mon/grab_subscription_plot.pl week
+

@@ -1,0 +1,778 @@
+1318819512	2	1	Alexx Perloff
+1318819812	2	0	Alexx Perloff
+1318820112	2	0	Alexx Perloff
+1318820412	2	0	Alexx Perloff
+1318820714	2	0	Alexx Perloff
+1318821013	2	0	Alexx Perloff
+1318821313	2	0	Alexx Perloff
+1318821612	2	0	Alexx Perloff
+1318821912	2	0	Alexx Perloff
+1318822212	2	0	Alexx Perloff
+1318822513	2	0	Alexx Perloff
+1318822812	2	0	Alexx Perloff
+1318823112	2	0	Alexx Perloff
+1318823412	2	0	Alexx Perloff
+1318823712	2	0	Alexx Perloff
+1318824012	2	0	Alexx Perloff
+1318824314	2	0	Alexx Perloff
+1318824612	2	0	Alexx Perloff
+1318824912	2	0	Alexx Perloff
+1318825212	2	0	Alexx Perloff
+1318825512	2	0	Alexx Perloff
+1318825812	2	0	Alexx Perloff
+1318826114	2	0	Alexx Perloff
+1318826413	2	0	Alexx Perloff
+1318826712	2	0	Alexx Perloff
+1318827012	2	0	Alexx Perloff
+1318827312	2	0	Alexx Perloff
+1318827617	2	0	Alexx Perloff
+1318827917	2	0	Alexx Perloff
+1318828216	2	0	Alexx Perloff
+1318828516	2	0	Alexx Perloff
+1318828813	2	0	Alexx Perloff
+1318829113	2	0	Alexx Perloff
+1318829413	2	0	Alexx Perloff
+1318829718	2	0	Alexx Perloff
+1318830016	2	0	Alexx Perloff
+1318830388	2	0	Alexx Perloff
+1318830613	2	0	Alexx Perloff
+1318830970	2	0	Alexx Perloff
+1318831212	2	0	Alexx Perloff
+1318831513	2	0	Alexx Perloff
+1318831812	2	0	Alexx Perloff
+1318832112	2	0	Alexx Perloff
+1318832412	2	0	Alexx Perloff
+1318832712	2	0	Alexx Perloff
+1318833012	2	0	Alexx Perloff
+1318833314	2	0	Alexx Perloff
+1318833612	2	0	Alexx Perloff
+1318833912	2	1	Alexx Perloff
+1318834212	2	0	Alexx Perloff
+1318834512	2	0	Alexx Perloff
+1318834812	2	0	Alexx Perloff
+1318835114	2	0	Alexx Perloff
+1318835412	2	0	Alexx Perloff
+1318835712	2	0	Alexx Perloff
+1318836013	2	0	Alexx Perloff
+1318836312	2	0	Alexx Perloff
+1318836612	2	0	Alexx Perloff
+1318836913	2	0	Alexx Perloff
+1318837213	2	0	Alexx Perloff
+1318837512	2	0	Alexx Perloff
+1318837812	2	0	Alexx Perloff
+1318838112	2	0	Alexx Perloff
+1318838413	2	0	Alexx Perloff
+1318838714	2	0	Alexx Perloff
+1318839012	2	0	Alexx Perloff
+1318839312	2	0	Alexx Perloff
+1318839613	2	0	Alexx Perloff
+1318839912	2	0	Alexx Perloff
+1318840212	2	0	Alexx Perloff
+1318840515	2	0	Alexx Perloff
+1318840812	2	0	Alexx Perloff
+1318841112	2	0	Alexx Perloff
+1318841412	2	0	Alexx Perloff
+1318841712	2	0	Alexx Perloff
+1318842012	2	0	Alexx Perloff
+1318842314	2	0	Alexx Perloff
+1318842612	2	0	Alexx Perloff
+1318842912	2	0	Alexx Perloff
+1318843212	2	0	Alexx Perloff
+1318843512	2	0	Alexx Perloff
+1318843812	2	0	Alexx Perloff
+1318844113	2	0	Alexx Perloff
+1318844412	2	0	Alexx Perloff
+1318844712	2	0	Alexx Perloff
+1318845012	2	0	Alexx Perloff
+1318845312	2	0	Alexx Perloff
+1318845612	2	0	Alexx Perloff
+1318845912	2	0	Alexx Perloff
+1318846211	2	0	Alexx Perloff
+1318846512	2	0	Alexx Perloff
+1318846812	2	0	Alexx Perloff
+1318847112	2	0	Alexx Perloff
+1318847411	2	0	Alexx Perloff
+1318847713	2	0	Alexx Perloff
+1318848012	2	0	Alexx Perloff
+1318848311	2	1	Alexx Perloff
+1318848611	2	0	Alexx Perloff
+1318848912	2	0	Alexx Perloff
+1318849212	2	0	Alexx Perloff
+1318849513	2	0	Alexx Perloff
+1318849811	2	0	Alexx Perloff
+1318850112	2	0	Alexx Perloff
+1318850412	2	0	Alexx Perloff
+1318850712	2	0	Alexx Perloff
+1318851012	2	0	Alexx Perloff
+1318851313	2	0	Alexx Perloff
+1318870814	2	1	Alexx Perloff
+1318871113	2	0	Alexx Perloff
+1318871412	2	0	Alexx Perloff
+1318871711	2	0	Alexx Perloff
+1318872017	2	0	Alexx Perloff
+1318872311	2	0	Alexx Perloff
+1318872612	2	0	Alexx Perloff
+1318872918	2	0	Alexx Perloff
+1318873217	2	0	Alexx Perloff
+1318873511	2	0	Alexx Perloff
+1318873812	2	0	Alexx Perloff
+1318874111	2	0	Alexx Perloff
+1318874412	2	0	Alexx Perloff
+1318874713	2	0	Alexx Perloff
+1318875017	2	0	Alexx Perloff
+1318875312	2	0	Alexx Perloff
+1318875612	2	0	Alexx Perloff
+1318875911	2	0	Alexx Perloff
+1318876211	2	0	Alexx Perloff
+1318876518	2	0	Alexx Perloff
+1318876817	2	0	Alexx Perloff
+1318877112	2	0	Alexx Perloff
+1318877411	2	0	Alexx Perloff
+1318877712	2	0	Alexx Perloff
+1318878012	2	0	Alexx Perloff
+1318878318	2	0	Alexx Perloff
+1318878611	2	0	Alexx Perloff
+1318878912	2	0	Alexx Perloff
+1318879217	2	0	Alexx Perloff
+1318879511	2	0	Alexx Perloff
+1318879812	2	0	Alexx Perloff
+1318880118	2	0	Alexx Perloff
+1318880416	2	0	Alexx Perloff
+1318880716	2	0	Alexx Perloff
+1318881011	2	0	Alexx Perloff
+1318881312	2	0	Alexx Perloff
+1318881611	2	0	Alexx Perloff
+1318881918	2	0	Alexx Perloff
+1318882212	2	0	Alexx Perloff
+1318882512	2	0	Alexx Perloff
+1318882811	2	0	Alexx Perloff
+1318883112	2	0	Alexx Perloff
+1318883412	2	0	Alexx Perloff
+1318883718	2	0	Alexx Perloff
+1318884011	2	0	Alexx Perloff
+1318884312	2	0	Alexx Perloff
+1318884612	2	0	Alexx Perloff
+1318884911	2	0	Alexx Perloff
+1318885211	2	1	Alexx Perloff
+1318885513	2	0	Alexx Perloff
+1318885813	2	0	Alexx Perloff
+1318886112	2	0	Alexx Perloff
+1318886412	2	0	Alexx Perloff
+1318886711	2	0	Alexx Perloff
+1318887012	2	0	Alexx Perloff
+1318887313	2	0	Alexx Perloff
+1318887612	2	0	Alexx Perloff
+1318887911	2	0	Alexx Perloff
+1318888212	2	0	Alexx Perloff
+1318888512	2	0	Alexx Perloff
+1318888811	2	0	Alexx Perloff
+1318889113	2	0	Alexx Perloff
+1318889412	2	0	Alexx Perloff
+1318889712	2	0	Alexx Perloff
+1318890011	2	0	Alexx Perloff
+1318890312	2	0	Alexx Perloff
+1318890612	2	0	Alexx Perloff
+1319022314	2	1	CMS: Daniele Benedetti
+1319022612	2	0	CMS: Daniele Benedetti
+1319022913	2	0	CMS: Daniele Benedetti
+1319023213	2	0	CMS: Daniele Benedetti
+1319023512	2	0	CMS: Daniele Benedetti
+1319023812	2	0	CMS: Daniele Benedetti
+1319024114	2	0	CMS: Daniele Benedetti
+1319024412	2	0	CMS: Daniele Benedetti
+1319024712	2	0	CMS: Daniele Benedetti
+1319025012	2	0	CMS: Daniele Benedetti
+1319025312	2	0	CMS: Daniele Benedetti
+1319025612	2	0	CMS: Daniele Benedetti
+1319025914	2	0	CMS: Daniele Benedetti
+1319026212	2	0	CMS: Daniele Benedetti
+1319026512	2	0	CMS: Daniele Benedetti
+1319026812	2	0	CMS: Daniele Benedetti
+1319027112	2	0	CMS: Daniele Benedetti
+1319027412	2	0	CMS: Daniele Benedetti
+1319027713	2	0	CMS: Daniele Benedetti
+1319028013	2	0	CMS: Daniele Benedetti
+1319028312	2	0	CMS: Daniele Benedetti
+1319028612	2	0	CMS: Daniele Benedetti
+1319028912	2	0	CMS: Daniele Benedetti
+1319029212	2	0	CMS: Daniele Benedetti
+1319029513	2	0	CMS: Daniele Benedetti
+1319029813	2	0	CMS: Daniele Benedetti
+1319030112	2	0	CMS: Daniele Benedetti
+1319030413	2	0	CMS: Daniele Benedetti
+1319030712	2	0	CMS: Daniele Benedetti
+1319031012	2	0	CMS: Daniele Benedetti
+1319031313	2	0	CMS: Daniele Benedetti
+1319031612	2	0	CMS: Daniele Benedetti
+1319031912	2	0	CMS: Daniele Benedetti
+1319032212	2	0	CMS: Daniele Benedetti
+1319032513	2	0	CMS: Daniele Benedetti
+1319032812	2	0	CMS: Daniele Benedetti
+1319033114	2	0	CMS: Daniele Benedetti
+1319033412	2	0	CMS: Daniele Benedetti
+1319033712	2	0	CMS: Daniele Benedetti
+1319034012	2	0	CMS: Daniele Benedetti
+1319034312	2	0	CMS: Daniele Benedetti
+1319034612	2	0	CMS: Daniele Benedetti
+1319034914	2	0	CMS: Daniele Benedetti
+1319035212	2	0	CMS: Daniele Benedetti
+1319035512	2	0	CMS: Daniele Benedetti
+1319035812	2	0	CMS: Daniele Benedetti
+1319036112	2	0	CMS: Daniele Benedetti
+1319036413	2	0	CMS: Daniele Benedetti
+1319036714	2	1	CMS: Daniele Benedetti
+1319037012	2	0	CMS: Daniele Benedetti
+1319037312	2	0	CMS: Daniele Benedetti
+1319037612	2	0	CMS: Daniele Benedetti
+1319037917	2	0	CMS: Daniele Benedetti
+1319038213	2	0	CMS: Daniele Benedetti
+1319038513	2	0	CMS: Daniele Benedetti
+1319038812	2	0	CMS: Daniele Benedetti
+1319039113	2	0	CMS: Daniele Benedetti
+1319039412	2	0	CMS: Daniele Benedetti
+1319039712	2	0	CMS: Daniele Benedetti
+1319040012	2	0	CMS: Daniele Benedetti
+1319040315	2	0	CMS: Daniele Benedetti
+1319040612	2	0	CMS: Daniele Benedetti
+1319040922	2	0	CMS: Daniele Benedetti
+1319041212	2	0	CMS: Daniele Benedetti
+1319041512	2	0	CMS: Daniele Benedetti
+1319041817	2	0	CMS: Daniele Benedetti
+1319042119	2	0	CMS: Daniele Benedetti
+1319042412	2	0	CMS: Daniele Benedetti
+1319042712	2	0	CMS: Daniele Benedetti
+1319043013	2	0	CMS: Daniele Benedetti
+1319043312	2	0	CMS: Daniele Benedetti
+1319043613	2	0	CMS: Daniele Benedetti
+1319043913	2	0	CMS: Daniele Benedetti
+1319044212	2	0	CMS: Daniele Benedetti
+1319044512	2	0	CMS: Daniele Benedetti
+1319044812	2	0	CMS: Daniele Benedetti
+1319045117	2	0	CMS: Daniele Benedetti
+1319045417	2	0	CMS: Daniele Benedetti
+1319045718	2	0	CMS: Daniele Benedetti
+1319046012	2	0	CMS: Daniele Benedetti
+1319046318	2	0	CMS: Daniele Benedetti
+1319046612	2	0	CMS: Daniele Benedetti
+1319046912	2	0	CMS: Daniele Benedetti
+1319047212	2	0	CMS: Daniele Benedetti
+1319047514	2	0	CMS: Daniele Benedetti
+1319047812	2	0	CMS: Daniele Benedetti
+1319048116	2	0	CMS: Daniele Benedetti
+1319048412	2	0	CMS: Daniele Benedetti
+1319048712	2	0	CMS: Daniele Benedetti
+1319049017	2	0	CMS: Daniele Benedetti
+1319049313	2	0	CMS: Daniele Benedetti
+1319049612	2	0	CMS: Daniele Benedetti
+1319049912	2	0	CMS: Daniele Benedetti
+1319050212	2	0	CMS: Daniele Benedetti
+1319050517	2	0	CMS: Daniele Benedetti
+1319050812	2	0	CMS: Daniele Benedetti
+1320524412	2	1	Alexx Perloff
+1320524712	2	0	Alexx Perloff
+1320525012	2	0	Alexx Perloff
+1320525313	2	0	Alexx Perloff
+1320525612	2	0	Alexx Perloff
+1320525912	2	0	Alexx Perloff
+1320526212	2	0	Alexx Perloff
+1320526513	2	0	Alexx Perloff
+1320876612	2	1	CMS: Michele Pioppi
+1320876912	2	0	CMS: Michele Pioppi
+1320877212	2	0	CMS: Michele Pioppi
+1320877512	2	0	CMS: Michele Pioppi
+1320877813	2	0	CMS: Michele Pioppi
+1320878114	2	0	CMS: Michele Pioppi
+1320878412	2	0	CMS: Michele Pioppi
+1320878712	2	0	CMS: Michele Pioppi
+1320879012	2	0	CMS: Michele Pioppi
+1320879313	2	0	CMS: Michele Pioppi
+1320879613	2	0	CMS: Michele Pioppi
+1320879914	2	0	CMS: Michele Pioppi
+1320880212	2	0	MULTIPLE
+1320880512	2	0	MULTIPLE
+1320880812	2	0	MULTIPLE
+1320881112	2	0	MULTIPLE
+1320881412	2	0	MULTIPLE
+1320881713	2	0	MULTIPLE
+1320882012	2	0	MULTIPLE
+1320882312	2	0	MULTIPLE
+1320882613	2	0	MULTIPLE
+1320882913	2	0	MULTIPLE
+1320883212	2	0	MULTIPLE
+1320883514	2	0	MULTIPLE
+1320883813	2	0	MULTIPLE
+1320884112	2	0	MULTIPLE
+1320884412	2	0	MULTIPLE
+1320884712	2	0	MULTIPLE
+1320885013	2	0	MULTIPLE
+1320885314	2	0	MULTIPLE
+1320885612	2	0	MULTIPLE
+1320885912	2	0	MULTIPLE
+1320886211	2	0	MULTIPLE
+1320886512	2	0	MULTIPLE
+1320886812	2	0	MULTIPLE
+1320887112	2	0	MULTIPLE
+1320887412	2	0	MULTIPLE
+1320887711	2	0	MULTIPLE
+1320888012	2	0	MULTIPLE
+1320888311	2	0	MULTIPLE
+1320888612	2	0	MULTIPLE
+1320888913	2	0	MULTIPLE
+1320889212	2	0	MULTIPLE
+1320889511	2	0	MULTIPLE
+1320889812	2	0	MULTIPLE
+1320890111	2	0	MULTIPLE
+1320890412	2	0	MULTIPLE
+1320890713	2	0	MULTIPLE
+1320891012	2	1	MULTIPLE
+1320891311	2	0	MULTIPLE
+1320891612	2	0	MULTIPLE
+1320891912	2	0	MULTIPLE
+1320892211	2	0	CMS: Andrea Sciaba
+1320979513	2	1	ext-grace
+1320979813	2	0	ext-grace
+1320980113	2	0	ext-grace
+1320980413	2	0	ext-grace
+1320980714	2	0	ext-grace
+1320981013	2	0	ext-grace
+1320981312	2	0	ext-grace
+1320981612	2	0	ext-grace
+1320981912	2	0	ext-grace
+1320982212	2	0	ext-grace
+1320982514	2	0	ext-grace
+1320982813	2	0	ext-grace
+1320983112	2	0	ext-grace
+1320983412	2	0	ext-grace
+1320983713	2	0	ext-grace
+1320984012	2	0	ext-grace
+1320984313	2	0	ext-grace
+1320984612	2	0	ext-grace
+1320984912	2	0	ext-grace
+1320985212	2	0	ext-grace
+1320985512	2	0	ext-grace
+1320985812	2	0	ext-grace
+1320986114	2	0	ext-grace
+1320986412	2	0	ext-grace
+1320986712	2	0	ext-grace
+1320987012	2	0	ext-grace
+1320987312	2	0	ext-grace
+1320987611	2	0	ext-grace
+1320987913	2	0	ext-grace
+1320988212	2	0	ext-grace
+1320988512	2	0	ext-grace
+1320988812	2	0	ext-grace
+1320989112	2	0	ext-grace
+1320989412	2	0	ext-grace
+1320989713	2	0	ext-grace
+1320990012	2	0	ext-grace
+1320990312	2	0	ext-grace
+1320990611	2	0	ext-grace
+1320990912	2	0	ext-grace
+1320991212	2	0	ext-grace
+1320991513	2	0	ext-grace
+1320991812	2	0	ext-grace
+1320992112	2	0	ext-grace
+1320992412	2	0	ext-grace
+1320992712	2	0	ext-grace
+1320993012	2	0	ext-grace
+1320993313	2	0	ext-grace
+1320993612	2	0	ext-grace
+1320993912	2	1	ext-grace
+1320994212	2	0	ext-grace
+1320994512	2	0	ext-grace
+1320994812	2	0	ext-grace
+1320995113	2	0	ext-grace
+1320995412	2	0	ext-grace
+1320995712	2	0	ext-grace
+1320996012	2	0	ext-grace
+1320996312	2	0	ext-grace
+1320996612	2	0	ext-grace
+1320996913	2	0	ext-grace
+1320997212	2	0	ext-grace
+1320997512	2	0	ext-grace
+1320997812	2	0	ext-grace
+1320998112	2	0	ext-grace
+1320998412	2	0	ext-grace
+1320998713	2	0	ext-grace
+1320999012	2	0	ext-grace
+1321266012	2	1	Aysen Tatarinov
+1321266313	2	0	Aysen Tatarinov
+1321266612	2	0	Aysen Tatarinov
+1321266914	2	0	Aysen Tatarinov
+1321267213	2	0	Aysen Tatarinov
+1321267512	2	0	Aysen Tatarinov
+1321267812	2	0	Aysen Tatarinov
+1321268113	2	0	Aysen Tatarinov
+1321268412	2	0	Aysen Tatarinov
+1321268713	2	0	Aysen Tatarinov
+1321269012	2	0	Aysen Tatarinov
+1321269313	2	0	Aysen Tatarinov
+1321269612	2	0	Aysen Tatarinov
+1321269912	2	0	Aysen Tatarinov
+1321270212	2	0	Aysen Tatarinov
+1321270514	2	0	Aysen Tatarinov
+1321270812	2	0	Aysen Tatarinov
+1321271112	2	0	Aysen Tatarinov
+1321271413	2	0	Aysen Tatarinov
+1321271712	2	0	Aysen Tatarinov
+1321272012	2	0	Aysen Tatarinov
+1321272314	2	0	Aysen Tatarinov
+1321272612	2	0	Aysen Tatarinov
+1321272912	2	0	Aysen Tatarinov
+1321273212	2	0	Aysen Tatarinov
+1321273512	2	0	Aysen Tatarinov
+1321273813	2	0	Aysen Tatarinov
+1321274114	2	0	Aysen Tatarinov
+1321274412	2	0	Aysen Tatarinov
+1321274713	2	0	Aysen Tatarinov
+1321275012	2	0	Aysen Tatarinov
+1321275312	2	0	Aysen Tatarinov
+1321275612	2	0	Aysen Tatarinov
+1321275914	2	0	Aysen Tatarinov
+1321276212	2	0	Aysen Tatarinov
+1321276512	2	0	Aysen Tatarinov
+1321276813	2	0	Aysen Tatarinov
+1321277112	2	0	Aysen Tatarinov
+1321277412	2	0	Aysen Tatarinov
+1321277713	2	0	Aysen Tatarinov
+1321278012	2	0	Aysen Tatarinov
+1321278312	2	0	Aysen Tatarinov
+1321278612	2	0	Aysen Tatarinov
+1321278913	2	0	Aysen Tatarinov
+1321279212	2	0	Aysen Tatarinov
+1321279513	2	0	Aysen Tatarinov
+1321279812	2	0	Aysen Tatarinov
+1321280112	2	0	Aysen Tatarinov
+1321280413	2	1	Aysen Tatarinov
+1321280713	2	0	Aysen Tatarinov
+1321281013	2	0	Aysen Tatarinov
+1321281314	2	0	Aysen Tatarinov
+1321281612	2	0	Aysen Tatarinov
+1321281912	2	0	Aysen Tatarinov
+1321282213	2	0	Aysen Tatarinov
+1321282512	2	0	Aysen Tatarinov
+1321282812	2	0	Aysen Tatarinov
+1321293312	2	0	Aysen Tatarinov
+1321293618	2	0	Aysen Tatarinov
+1321293914	2	0	Aysen Tatarinov
+1321294212	2	0	Aysen Tatarinov
+1321294513	2	0	Aysen Tatarinov
+1321294813	2	1	Aysen Tatarinov
+1321295118	2	0	Aysen Tatarinov
+1321295413	2	0	Aysen Tatarinov
+1321295713	2	0	Aysen Tatarinov
+1321296012	2	0	Aysen Tatarinov
+1321296313	2	0	MULTIPLE
+1321296612	2	0	MULTIPLE
+1321296918	2	0	MULTIPLE
+1321385418	2	1	Vaikunth Thukral
+1321385713	2	0	Vaikunth Thukral
+1321386012	2	0	Vaikunth Thukral
+1321386313	2	0	Vaikunth Thukral
+1321386612	2	0	Vaikunth Thukral
+1321386912	2	0	Vaikunth Thukral
+1321387212	2	0	Vaikunth Thukral
+1321387513	2	0	Vaikunth Thukral
+1321387813	2	0	Vaikunth Thukral
+1321388112	2	0	Vaikunth Thukral
+1321388423	2	0	Vaikunth Thukral
+1321388717	2	0	Vaikunth Thukral
+1321389013	2	0	Vaikunth Thukral
+1321389314	2	0	Vaikunth Thukral
+1321389612	2	0	Vaikunth Thukral
+1321389913	2	0	Vaikunth Thukral
+1321390222	2	0	Vaikunth Thukral
+1321390518	2	0	Vaikunth Thukral
+1321390823	2	0	Vaikunth Thukral
+1321391114	2	0	Vaikunth Thukral
+1321391412	2	0	Vaikunth Thukral
+1321391713	2	0	Vaikunth Thukral
+1321392012	2	0	Vaikunth Thukral
+1321392313	2	0	Vaikunth Thukral
+1321392612	2	0	Vaikunth Thukral
+1321392913	2	0	Vaikunth Thukral
+1321980312	2	1	CMS: Simon Knutzen
+1321980612	2	0	CMS: Simon Knutzen
+1321980912	2	0	CMS: Simon Knutzen
+1321981212	2	0	CMS: Simon Knutzen
+1321981514	2	0	CMS: Simon Knutzen
+1321981812	2	0	CMS: Simon Knutzen
+1321982112	2	0	CMS: Simon Knutzen
+1321982413	2	0	CMS: Simon Knutzen
+1321982712	2	0	CMS: Simon Knutzen
+1321983012	2	0	CMS: Simon Knutzen
+1321983314	2	0	CMS: Simon Knutzen
+1321983612	2	0	CMS: Simon Knutzen
+1321983912	2	0	CMS: Simon Knutzen
+1321984212	2	0	CMS: Simon Knutzen
+1321984514	2	0	CMS: Simon Knutzen
+1321984812	2	0	CMS: Simon Knutzen
+1321985113	2	0	CMS: Simon Knutzen
+1321985411	2	0	CMS: Simon Knutzen
+1322078111	2	1	CMS: Simon Knutzen
+1322078412	2	0	CMS: Simon Knutzen
+1322078713	2	0	CMS: Simon Knutzen
+1322079012	2	0	CMS: Simon Knutzen
+1322079312	2	0	CMS: Simon Knutzen
+1322079611	2	0	CMS: Simon Knutzen
+1322079912	2	0	CMS: Simon Knutzen
+1322080212	2	0	CMS: Simon Knutzen
+1322080512	2	0	CMS: Simon Knutzen
+1322080812	2	0	CMS: Simon Knutzen
+1322081111	2	0	CMS: Simon Knutzen
+1322081412	2	0	CMS: Simon Knutzen
+1322081712	2	0	CMS: Simon Knutzen
+1322082011	2	0	CMS: Simon Knutzen
+1322082313	2	0	CMS: Simon Knutzen
+1322082612	2	0	CMS: Simon Knutzen
+1322082911	2	0	CMS: Simon Knutzen
+1322083212	2	0	CMS: Simon Knutzen
+1322083512	2	0	CMS: Simon Knutzen
+1322083811	2	0	CMS: Simon Knutzen
+1322084411	2	0	CMS: Simon Knutzen
+1322084712	2	0	CMS: Simon Knutzen
+1322085011	2	0	CMS: Simon Knutzen
+1322085312	2	0	CMS: Simon Knutzen
+1322085612	2	0	CMS: Simon Knutzen
+1322085912	2	0	CMS: Simon Knutzen
+1322086212	2	0	CMS: Simon Knutzen
+1322086511	2	0	CMS: Simon Knutzen
+1344637436	2	1	Roy J. Montalvo
+1344637514	2	0	Roy J. Montalvo
+1344637814	2	0	Roy J. Montalvo
+1344638116	2	0	Roy J. Montalvo
+1344638414	2	0	Roy J. Montalvo
+1344638714	2	0	Roy J. Montalvo
+1344639014	2	0	Roy J. Montalvo
+1344639314	2	0	Roy J. Montalvo
+1344639614	2	0	Roy J. Montalvo
+1344639917	2	0	Roy J. Montalvo
+1344640214	2	0	Roy J. Montalvo
+1344640514	2	0	Roy J. Montalvo
+1344640814	2	0	Roy J. Montalvo
+1344641114	2	0	Roy J. Montalvo
+1344641414	2	0	Roy J. Montalvo
+1344641717	2	0	Roy J. Montalvo
+1344642018	2	0	Roy J. Montalvo
+1344642314	2	0	Roy J. Montalvo
+1344642614	2	0	Roy J. Montalvo
+1344642914	2	0	Roy J. Montalvo
+1344643214	2	0	Roy J. Montalvo
+1344643517	2	0	Roy J. Montalvo
+1344643814	2	0	Roy J. Montalvo
+1344644113	2	0	Roy J. Montalvo
+1344644414	2	0	Roy J. Montalvo
+1344644714	2	0	Roy J. Montalvo
+1344645014	2	0	Roy J. Montalvo
+1344645317	2	0	Roy J. Montalvo
+1344645614	2	0	Roy J. Montalvo
+1344645914	2	0	Roy J. Montalvo
+1344646214	2	0	Roy J. Montalvo
+1344646514	2	0	Roy J. Montalvo
+1344646814	2	0	Roy J. Montalvo
+1344647116	2	0	Roy J. Montalvo
+1344647414	2	0	Roy J. Montalvo
+1344647714	2	0	Roy J. Montalvo
+1344648014	2	0	Roy J. Montalvo
+1344648314	2	0	Roy J. Montalvo
+1344648614	2	0	Roy J. Montalvo
+1344648916	2	0	Roy J. Montalvo
+1344649214	2	0	Roy J. Montalvo
+1344649514	2	0	Roy J. Montalvo
+1344649814	2	0	Roy J. Montalvo
+1344650114	2	0	Roy J. Montalvo
+1344650414	2	0	Roy J. Montalvo
+1344650716	2	0	Roy J. Montalvo
+1344651014	2	0	Roy J. Montalvo
+1344651313	2	0	Roy J. Montalvo
+1344651614	2	0	Roy J. Montalvo
+1344651914	2	1	Roy J. Montalvo
+1344652214	2	0	Roy J. Montalvo
+1344652516	2	0	Roy J. Montalvo
+1344652814	2	0	Roy J. Montalvo
+1344653114	2	0	Roy J. Montalvo
+1344653414	2	0	Roy J. Montalvo
+1344653714	2	0	Roy J. Montalvo
+1344654017	2	0	Roy J. Montalvo
+1344654316	2	0	Roy J. Montalvo
+1344654614	2	0	Roy J. Montalvo
+1344654914	2	0	Roy J. Montalvo
+1344655214	2	0	Roy J. Montalvo
+1344655514	2	0	Roy J. Montalvo
+1344655814	2	0	Roy J. Montalvo
+1344656116	2	0	Roy J. Montalvo
+1344656414	2	0	Roy J. Montalvo
+1344656714	2	0	Roy J. Montalvo
+1344657014	2	0	Roy J. Montalvo
+1344657314	2	0	Roy J. Montalvo
+1344657613	2	0	Roy J. Montalvo
+1344657917	2	0	Roy J. Montalvo
+1344658214	2	0	Roy J. Montalvo
+1344658513	2	0	Roy J. Montalvo
+1344658813	2	0	Roy J. Montalvo
+1344659114	2	0	Roy J. Montalvo
+1344659414	2	0	Roy J. Montalvo
+1344659716	2	0	Roy J. Montalvo
+1344660013	2	0	Roy J. Montalvo
+1344660314	2	0	Roy J. Montalvo
+1344660614	2	0	Roy J. Montalvo
+1344660914	2	0	Roy J. Montalvo
+1344661213	2	0	Roy J. Montalvo
+1344661516	2	0	Roy J. Montalvo
+1344661814	2	0	Roy J. Montalvo
+1344662114	2	0	Roy J. Montalvo
+1344662413	2	0	Roy J. Montalvo
+1344662714	2	0	Roy J. Montalvo
+1344663013	2	0	Roy J. Montalvo
+1344663316	2	0	Roy J. Montalvo
+1344663618	2	0	Roy J. Montalvo
+1344663914	2	0	Roy J. Montalvo
+1344664214	2	0	Roy J. Montalvo
+1344664514	2	0	Roy J. Montalvo
+1344664814	2	0	Roy J. Montalvo
+1344665116	2	0	Roy J. Montalvo
+1344665413	2	0	Roy J. Montalvo
+1344665713	2	0	Roy J. Montalvo
+1344666013	2	0	Roy J. Montalvo
+1344666314	2	1	Roy J. Montalvo
+1344666614	2	0	Roy J. Montalvo
+1344666916	2	0	Roy J. Montalvo
+1344667213	2	0	Roy J. Montalvo
+1344667513	2	0	Roy J. Montalvo
+1344667814	2	0	Roy J. Montalvo
+1344668114	2	0	Roy J. Montalvo
+1344668414	2	0	Roy J. Montalvo
+1344668716	2	0	Roy J. Montalvo
+1344669014	2	0	Roy J. Montalvo
+1344669313	2	0	Roy J. Montalvo
+1344669614	2	0	Roy J. Montalvo
+1344669914	2	0	Roy J. Montalvo
+1344670213	2	0	Roy J. Montalvo
+1344670516	2	0	Roy J. Montalvo
+1344670813	2	0	Roy J. Montalvo
+1344671114	2	0	Roy J. Montalvo
+1344671414	2	0	Roy J. Montalvo
+1344671713	2	0	Roy J. Montalvo
+1344672014	2	0	Roy J. Montalvo
+1344672316	2	0	Roy J. Montalvo
+1344672614	2	0	Roy J. Montalvo
+1344672914	2	0	Roy J. Montalvo
+1344673213	2	0	Roy J. Montalvo
+1344673514	2	0	Roy J. Montalvo
+1344673814	2	0	Roy J. Montalvo
+1344674116	2	0	Roy J. Montalvo
+1344674413	2	0	Roy J. Montalvo
+1344674714	2	0	Roy J. Montalvo
+1344675014	2	0	Roy J. Montalvo
+1344675314	2	0	Roy J. Montalvo
+1344675624	2	0	Roy J. Montalvo
+1344675918	2	0	Roy J. Montalvo
+1344676215	2	0	Roy J. Montalvo
+1344676514	2	0	Roy J. Montalvo
+1344676813	2	0	Roy J. Montalvo
+1344677114	2	0	Roy J. Montalvo
+1344677413	2	0	Roy J. Montalvo
+1344677716	2	0	Roy J. Montalvo
+1344678013	2	0	Roy J. Montalvo
+1344678314	2	0	Roy J. Montalvo
+1344678614	2	0	Roy J. Montalvo
+1344678914	2	0	Roy J. Montalvo
+1344679214	2	0	Roy J. Montalvo
+1344679517	2	0	Roy J. Montalvo
+1344679814	2	0	Roy J. Montalvo
+1344680114	2	0	Roy J. Montalvo
+1344680414	2	0	Roy J. Montalvo
+1344680714	2	1	Roy J. Montalvo
+1344681014	2	0	Roy J. Montalvo
+1344681317	2	0	Roy J. Montalvo
+1344681614	2	0	Roy J. Montalvo
+1344681916	2	0	Roy J. Montalvo
+1344682214	2	0	Roy J. Montalvo
+1344682514	2	0	Roy J. Montalvo
+1344682814	2	0	Roy J. Montalvo
+1344683116	2	0	Roy J. Montalvo
+1344683414	2	0	Roy J. Montalvo
+1344683714	2	0	Roy J. Montalvo
+1344684015	2	0	Roy J. Montalvo
+1344684315	2	0	Roy J. Montalvo
+1344684614	2	0	Roy J. Montalvo
+1344684917	2	0	Roy J. Montalvo
+1344685218	2	0	Roy J. Montalvo
+1344685514	2	0	Roy J. Montalvo
+1344685814	2	0	Roy J. Montalvo
+1344686114	2	0	Roy J. Montalvo
+1344686415	2	0	Roy J. Montalvo
+1344686716	2	0	Roy J. Montalvo
+1344687017	2	0	Roy J. Montalvo
+1344687314	2	0	Roy J. Montalvo
+1344687614	2	0	Roy J. Montalvo
+1344687914	2	0	Roy J. Montalvo
+1344688214	2	0	Roy J. Montalvo
+1344688517	2	0	Roy J. Montalvo
+1344688814	2	0	Roy J. Montalvo
+1344689114	2	0	Roy J. Montalvo
+1344689414	2	0	Roy J. Montalvo
+1344689714	2	0	Roy J. Montalvo
+1344690015	2	0	Roy J. Montalvo
+1344690316	2	0	Roy J. Montalvo
+1344690615	2	0	Roy J. Montalvo
+1344690914	2	0	Roy J. Montalvo
+1344691214	2	0	Roy J. Montalvo
+1344691514	2	0	Roy J. Montalvo
+1344691814	2	0	Roy J. Montalvo
+1344692116	2	0	Roy J. Montalvo
+1344692414	2	0	Roy J. Montalvo
+1344692714	2	0	Roy J. Montalvo
+1344693014	2	0	Roy J. Montalvo
+1344693314	2	0	Roy J. Montalvo
+1344693614	2	0	Roy J. Montalvo
+1344693917	2	0	Roy J. Montalvo
+1344694214	2	0	Roy J. Montalvo
+1344694514	2	0	Roy J. Montalvo
+1344694814	2	0	Roy J. Montalvo
+1344695114	2	1	Roy J. Montalvo
+1344695414	2	0	Roy J. Montalvo
+1344695717	2	0	Roy J. Montalvo
+1344696014	2	0	Roy J. Montalvo
+1344696314	2	0	Roy J. Montalvo
+1344696614	2	0	Roy J. Montalvo
+1344696914	2	0	Roy J. Montalvo
+1344697214	2	0	Roy J. Montalvo
+1344697517	2	0	Roy J. Montalvo
+1344697814	2	0	Roy J. Montalvo
+1344698114	2	0	Roy J. Montalvo
+1344698414	2	0	Roy J. Montalvo
+1344698715	2	0	Roy J. Montalvo
+1344699017	2	0	Roy J. Montalvo
+1344699316	2	0	Roy J. Montalvo
+1344699614	2	0	Roy J. Montalvo
+1344699914	2	0	Roy J. Montalvo
+1344700214	2	0	Roy J. Montalvo
+1344700514	2	0	Roy J. Montalvo
+1344700814	2	0	Roy J. Montalvo
+1344701117	2	0	Roy J. Montalvo
+1344701414	2	0	Roy J. Montalvo
+1344701714	2	0	Roy J. Montalvo
+1344702014	2	0	Roy J. Montalvo
+1344702314	2	0	Roy J. Montalvo
+1344702614	2	0	Roy J. Montalvo
+1344702916	2	0	Roy J. Montalvo
+1344703215	2	0	Roy J. Montalvo
+1344703514	2	0	Roy J. Montalvo
+1344703814	2	0	Roy J. Montalvo
+1344704114	2	0	Roy J. Montalvo
+1344704414	2	0	Roy J. Montalvo
+1344704717	2	0	Roy J. Montalvo
+1344705014	2	0	Roy J. Montalvo
+1344705315	2	0	Roy J. Montalvo
+1344705614	2	0	Roy J. Montalvo
+1344705914	2	0	Roy J. Montalvo
+1344706214	2	0	Roy J. Montalvo
+1344706517	2	0	Roy J. Montalvo
+1344706818	2	0	Roy J. Montalvo
+1344707114	2	0	Roy J. Montalvo
+1344707414	2	0	Roy J. Montalvo
+1344707714	2	0	Roy J. Montalvo
+1344708014	2	0	Roy J. Montalvo
+1344708317	2	0	Roy J. Montalvo
+1344708614	2	0	Roy J. Montalvo

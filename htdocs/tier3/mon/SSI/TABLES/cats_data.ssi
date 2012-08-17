@@ -1,0 +1,43 @@
+
+<DIV id="cats_data_anchor" style="z-index:0; display:block; position:static; height:248px; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+	<table class="mon_default" style="height:248px; width:826px;">
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:106px; height:16px;">&darr; Grid Client</td>
+			<td colspan="4" class="mon_default" style="width:694px; height:16px;">CRAB Analysis Test Suite (CATS) Completed Job Status</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:106px; height:16px;">Output Host &rarr;</td>
+			<td colspan="2" class="mon_default" style="width:336px; height:16px; color:black; background-color:#20B2AA;">Local: Brazos Cluster</td>
+			<td colspan="2" class="mon_default" style="width:336px; height:16px; color:black; background-color:#20B2AA;">Remote: Fermi National Laboratory</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:106px; height:16px;">Output Size &rarr;</td>
+			<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#20B2AA;">Small</td>
+			<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#20B2AA;">Large</td>
+			<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#20B2AA;">Small</td>
+			<td class="mon_default" style="width:166px; height:16px; color:black; background-color:#20B2AA;">Large</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:106px; height:36px; color:black; background-color:#20B2AA;">gLite</td>
+			<td class="mon_default" style="width:166px; height:36px; color:black;  background-color:green; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=taskJobs&amp;usergridname=undefined&amp;taskmonid=dcruz_gLite_Small_Output_Brazos_8n2g4a&amp;what=all','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='green';">Pass:10 &nbsp; Fail:0 &nbsp; Other:0<br>2012-08-17 10:02 UTC</td>
+			<td class="mon_default" style="width:166px; height:36px; color:black;  background-color:green; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=taskJobs&amp;usergridname=undefined&amp;taskmonid=dcruz_gLite_Large_Output_Brazos_2st5d1&amp;what=all','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='green';">Pass:10 &nbsp; Fail:0 &nbsp; Other:0<br>2012-08-16 16:03 UTC</td>
+			<td class="mon_default" style="width:166px; height:36px; color:black;  background-color:green; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=taskJobs&amp;usergridname=undefined&amp;taskmonid=dcruz_gLite_Small_Output_FNAL_94o2vz&amp;what=all','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='green';">Pass:10 &nbsp; Fail:0 &nbsp; Other:0<br>2012-08-16 22:03 UTC</td>
+			<td class="mon_default" style="width:166px; height:36px; color:black;  background-color:green; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=taskJobs&amp;usergridname=undefined&amp;taskmonid=dcruz_gLite_Large_Output_FNAL_c68j2r&amp;what=all','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='green';">Pass:10 &nbsp; Fail:0 &nbsp; Other:0<br>2012-08-17 04:02 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:106px; height:36px; color:black; background-color:#20B2AA;">CondorG</td>
+			<td class="mon_default" style="width:166px; height:36px; color:black;  background-color:green; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=taskJobs&amp;usergridname=undefined&amp;taskmonid=dcruz_CondorG_Small_Output_Brazos_gw4s38&amp;what=all','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='green';">Pass:10 &nbsp; Fail:0 &nbsp; Other:0<br>2012-08-17 09:02 UTC</td>
+			<td class="mon_default" style="width:166px; height:36px; color:black;  background-color:green; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=taskJobs&amp;usergridname=undefined&amp;taskmonid=dcruz_CondorG_Large_Output_Brazos_c012ex&amp;what=all','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='green';">Pass:10 &nbsp; Fail:0 &nbsp; Other:0<br>2012-08-17 13:03 UTC</td>
+			<td class="mon_default" style="width:166px; height:36px; color:black;  background-color:green; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=taskJobs&amp;usergridname=undefined&amp;taskmonid=dcruz_CondorG_Small_Output_FNAL_l98ki4&amp;what=all','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='green';">Pass:10 &nbsp; Fail:0 &nbsp; Other:0<br>2012-08-17 19:02 UTC</td>
+			<td class="mon_default" style="width:166px; height:36px; color:black;  background-color:green; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=taskJobs&amp;usergridname=undefined&amp;taskmonid=dcruz_CondorG_Large_Output_FNAL_z45vt9&amp;what=all','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='green';">Pass:10 &nbsp; Fail:0 &nbsp; Other:0<br>2012-08-17 01:02 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:106px; height:36px; color:black; background-color:#20B2AA;">PBS</td>
+			<td colspan="2" class="mon_default" style="width:342px; height:36px; color:black;  background-color:green; cursor:pointer;" onClick="javascript:window.open('http://dashb-cms-job-task.cern.ch/dashboard/request.py/taskmonitoring#action=taskJobs&amp;usergridname=undefined&amp;taskmonid=daniel.cruz_PBS_Output_Brazos_i93d7m&amp;what=all','NEW');" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='green';">Pass:10 &nbsp; Fail:0 &nbsp; Other:0<br>2012-08-17 09:08 UTC</td>
+			<td colspan="2" class="mon_default" style="width:342px; height:36px; color:black;  background-color:#CCCCCC;"></td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td colspan="5" class="mon_default" style="width:810px; height:16px;">&uarr; Test Results Link to Job Details &uarr;</td>
+		</tr>
+	</table>
+</DIV>

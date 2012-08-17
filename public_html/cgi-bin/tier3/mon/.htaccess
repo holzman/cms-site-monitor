@@ -1,0 +1,17 @@
+
+AuthUserFile /home/ext-jww004/public_html/cgi-bin/tier3/mon/.htpasswd
+AuthType Basic
+AuthName "Tier3 Grid Restricted"
+
+<Files ~ (\.pl$)>
+  Require valid-user
+</Files>
+
+<Files ~ (\.sh$)>
+  Deny from all
+</Files>
+
+<Files .htpasswd>
+  Deny from all
+</Files>
+

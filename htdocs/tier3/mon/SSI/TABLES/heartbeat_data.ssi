@@ -1,0 +1,21 @@
+<DIV id="heartbeat_anchor" style="z-index:0; display:block; position:static; height:84px; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+	<table class="mon_default" style="height:84px; width:826px;">
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+			<td colspan="5" class="mon_default" style="width:810px; height:16px;">Brazos Cluster Heartbeat Tests ( 2012-08-17 18:40 UTC )</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+			<td class="mon_default" style="width:154px; height:16px;">SSH Link to Hurr</td>
+			<td class="mon_default" style="width:154px; height:16px;">FData Filesystem Mount</td>
+			<td class="mon_default" style="width:154px; height:16px;">FData Partition Size</td>
+			<td class="mon_default" style="width:154px; height:16px;">"DU" Query Status</td>
+			<td class="mon_default" style="width:154px; height:16px;">"DU" Query Timer</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:154px; height:16px; color:black; background-color:green;">Pass</td>
+			<td class="mon_default" style="width:154px; height:16px; color:black; background-color:green;">Pass</td>
+			<td class="mon_default" style="width:154px; height:16px; color:black; background-color:green;">98.2 TiB</td>
+			<td class="mon_default" style="width:154px; height:16px; color:black; background-color:green;">Pass</td>
+			<td class="mon_default" style="width:154px; height:16px; color:black; background-color:green;">0.0 Seconds</td>
+		</tr>
+	</table>
+</DIV>

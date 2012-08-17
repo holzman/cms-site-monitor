@@ -1,0 +1,695 @@
+1330406717	2	1	[BR][TAB]*DU Failed on [BR][TAB]*Experienced A Major Page Fault During DU Query
+1330418737	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330431339	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330438516	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330440917	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330444816	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330462514	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330467013	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330477814	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330485614	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330499713	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330501213	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330510514	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330540515	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330541713	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330546814	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330549514	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330551315	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330552214	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330552513	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330557614	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330558214	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330573814	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330585516	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330585814	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330586114	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330586414	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330586715	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330587014	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330587317	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330587614	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330587914	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330588213	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330588813	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330589417	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330601414	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330605316	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330617916	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330618814	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330619113	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330619413	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330620014	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330621814	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330622114	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330632013	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330632915	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330633813	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330641014	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330642513	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330643116	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330643414	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330648818	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330650316	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330659013	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330662613	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330664414	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330668316	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330672514	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330674014	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330680314	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330696214	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330701614	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330713914	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330726513	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330731316	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330732214	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330758316	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330760116	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330760713	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330784714	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330785013	2	0	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330815314	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330845013	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1330890015	2	1	[BR][TAB]*DU Failed on /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*Experienced A Major Page Fault During DU Query
+1332096624	2	1	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332096924	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332097224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332097527	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332097824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332098124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332098424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332098724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332099024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332099326	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332099624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332099924	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332100224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332100524	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332100824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332101127	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332101424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332101724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332102024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332102324	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332102624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332102927	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332103224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332103524	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332103824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332104125	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332104424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332104726	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332105022	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332105324	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332105624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332105924	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332106224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332106526	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332106824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332107124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332107424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332107724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332108024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332108327	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332108624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332108925	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332109224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332109524	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332109824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332110126	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332110424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332110724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332111024	2	1	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332111324	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332111624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332111927	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332112224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332112525	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332112824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332113125	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332113424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332113727	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332114026	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332114324	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332114624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332114924	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332115224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332115527	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332115825	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332116124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332116424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332116724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332117024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332117327	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332117624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332117924	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332118225	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332118524	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332118824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332119127	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332119425	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332119724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332120024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332120324	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332120624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332120927	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332121224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332121524	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332121824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332122124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332122424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332122727	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332123025	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332123324	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332123624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332123924	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332124224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332124527	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332124824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332125124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332125425	2	1	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332125724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332126024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332126327	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332126624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332126925	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332127224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332127524	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332127824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332128127	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332128424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332128724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332129024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332129325	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332129624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332129927	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332130224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332130524	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332130824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332131124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332131424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332131726	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332132024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332132324	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332132624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332132924	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332133226	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332133527	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332133826	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332134125	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332134424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332134726	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332135025	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332135333	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332135626	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332135925	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332136224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332136524	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332136824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332137126	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332137424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332137724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332138024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332138324	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332138625	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332138926	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332139224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332139524	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332139824	2	1	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332140124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332140424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332140727	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332141024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332141324	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332141625	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332141924	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332142224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332142527	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332142824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332143124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332143425	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332143724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332144024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332144327	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332144624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332144924	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332145224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332145525	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332145824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332146127	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332146424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332146725	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332147024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332147325	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332147624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332147927	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332148227	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332148525	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332148824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332149124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332149424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332149727	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332150025	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332150324	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332150624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332150924	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332151224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332151526	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332151824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332152124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332152424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332152725	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332153024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332153327	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332153624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332153925	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332154224	2	1	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332154524	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332154824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332155127	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332155424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332155724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332156024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332156325	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332156624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332156927	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332157226	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332157524	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332157824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332158124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332158424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332158727	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332159024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332159324	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332159625	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332159924	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332160224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332160527	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332160825	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332161124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332161424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332161724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332162024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332162327	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332162622	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332162924	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332163224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332163524	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332163825	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332164126	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332164425	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332164724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332165024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332165384	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332165624	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332165927	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332166224	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332166524	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332166824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332167124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332167424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332167727	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332168024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332168324	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332168624	2	1	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332168924	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332169223	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332169527	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332169824	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332170124	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332170424	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332170724	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332171024	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332171326	2	0	[BR][TAB]*Cannot SSH to hurr.tamu.edu from brazos.tamu.edu
+1332184213	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332213613	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332251713	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332252013	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332252316	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332252914	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332253814	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332254116	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332254713	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332255313	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332255916	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332256214	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332256813	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332257413	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332258014	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332258314	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332258913	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332259814	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332267614	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332270014	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332270614	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332270914	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332271814	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332272414	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332272714	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332273014	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332273313	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332273614	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332273916	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332274214	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332274513	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332274814	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332310214	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332311413	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332345916	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332361815	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332362117	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332363613	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332364214	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332366615	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332366914	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332367214	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332367517	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332367814	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332368115	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332398117	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332418215	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332429615	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332430215	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332440414	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332442213	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332444916	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332446716	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332447014	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332447313	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332447613	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332447914	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332448213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332448516	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332448813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332449114	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332449413	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332449713	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332450014	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332450316	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332450614	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332450913	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332451213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332451513	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332451813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Could Not Establish "DU" Page Fault Status
+1332453916	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332455113	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332455415	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332457814	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332458114	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332458414	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332458715	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332459014	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332459914	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332460214	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332460515	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332460814	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332461117	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332461714	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332462014	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332462314	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332462616	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332462917	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332463214	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332463513	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332463813	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332464114	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332464413	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332464720	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332465014	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332465313	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332465613	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332465914	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332466213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332466516	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332466814	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332467113	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332467413	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332467714	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332468013	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332468316	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332468614	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332468913	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332469213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332469514	2	1	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332469813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332470116	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332470413	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332470713	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332471013	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332471314	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332471613	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332471916	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332472213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332472513	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332472814	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332473113	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332473413	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332473716	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332474013	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332474313	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332474614	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332474913	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332475213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332475516	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332475813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332476113	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332476413	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332476713	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332477014	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332477315	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332477614	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332477913	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332478213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332478513	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332478814	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332479116	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332479414	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332479713	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332480013	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332480313	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332480614	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332480916	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332481218	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332481514	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332481813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332482113	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332482414	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332482715	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332483014	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332483313	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332483613	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332483913	2	1	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332484213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332484515	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332484814	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332485113	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332485413	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332485713	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332486014	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332486315	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332486613	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332486913	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332487213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332487514	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332487813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332488116	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332488414	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332488713	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332489013	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332489313	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332489613	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332489916	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332490213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332490513	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332490813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332491114	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332491413	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332491716	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332492013	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332492314	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332492613	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332492913	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332493214	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332493516	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332493813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332494113	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332494414	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332494713	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332495013	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332495316	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332495614	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332495914	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332496216	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332496513	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332496813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332497117	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332497413	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332497714	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332498014	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332498313	2	1	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332498614	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332498916	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332499213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332499513	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332499813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332500114	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332500413	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332500716	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332501014	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332501313	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332501613	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332501914	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 81.8 TiB Differs From Expected 130.9 TiB
+1332502214	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332502516	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332502817	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332503113	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332503413	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332503713	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332504014	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332504316	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332504614	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332504913	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332505213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332505514	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332505813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332506116	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332506414	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332506713	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332507013	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332507314	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332507613	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332507916	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332508214	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332508513	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332508813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332509113	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332509414	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332509716	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332510013	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332510313	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332510914	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332511213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332511516	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332511814	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332512113	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332512413	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332512713	2	1	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332513013	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332513315	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332513613	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332513913	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332514213	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332514513	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332514813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332515117	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332515413	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332515713	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332516013	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*[TAB]Disk Partition of 114.5 TiB Differs From Expected 130.9 TiB
+1332518114	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332518716	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332519014	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332519314	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332519613	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332519914	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332520214	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332520516	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332520813	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332521114	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332521413	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332521714	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332522013	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332522316	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332522613	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332522914	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332523514	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332523814	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332524116	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332524418	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332524714	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332525014	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332525313	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332525613	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332525916	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332526214	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332526513	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332526814	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332527113	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332527414	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1332528914	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp[BR][TAB]*[TAB]Experienced A Major Page Fault During "DU" Query
+1333810514	2	1	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333810813	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333811116	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333811414	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333811717	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333812014	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333812314	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333812614	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333812916	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333813214	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333813513	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333813814	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333814113	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333814414	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333814716	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1333815013	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /gluster[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /gluster/hepx/store/temp
+1343746214	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343746513	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343746813	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343747116	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343747413	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343747713	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343748013	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343748314	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343748613	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343748916	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343749213	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343749514	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343749813	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343750113	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343750413	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343750717	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343751013	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343751314	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343751613	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343751913	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343752214	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343752516	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343752813	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343753113	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343753413	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343753713	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343754013	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343754317	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343754614	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343754913	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343755213	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343755513	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343755814	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343756116	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343756418	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343756714	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343757013	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343757313	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343757613	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343757917	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343758213	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343758514	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343758813	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343759113	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343759414	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343759716	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343760013	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343760313	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343760614	2	1	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343760913	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343761213	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343761522	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343761813	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343762113	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343762414	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343762713	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343763013	2	0	[BR][TAB]*Failure Invoking "DU" as: /usr/bin/du --max-depth=0 /hdata/hepx/store/temp
+1343763316	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /fdata[BR][TAB]*[TAB]Disk Partition of 98.2 TiB Differs From Expected 32.7 TiB
+1343763426	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /fdata[BR][TAB]*[TAB]Disk Partition of 98.2 TiB Differs From Expected 32.7 TiB
+1343763613	2	0	[BR][TAB]*Failure Invoking "DF" as: /bin/df -P /fdata[BR][TAB]*[TAB]Disk Partition of 98.2 TiB Differs From Expected 32.7 TiB

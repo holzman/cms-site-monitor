@@ -1,0 +1,273 @@
+1330386962	3	1	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330387261	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330387562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330388462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330388762	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330389062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330389363	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330389662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330389961	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330390262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330390532	1	0	Error Locking Self ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330390862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330391163	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330391462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330391762	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330392062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330392362	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330392662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330392963	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330393562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330393862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330394162	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330394462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330394763	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330395062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330395362	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330395662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330395962	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330396261	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330396562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330399262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330399562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330399861	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330400163	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330400462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330400761	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330401062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330401362	3	1	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330401661	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330401963	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330402262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330402562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330402862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330403161	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330403462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330403763	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330404061	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330404362	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330404662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330404962	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330405262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330405563	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330405862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330406162	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330406462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330407062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330407662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330407817	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330407961	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330408262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330408562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330408862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330409163	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330409462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330409761	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330410362	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330410662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330410963	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330411262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330411562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330411862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330412162	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330412461	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330412763	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330413062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330413361	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330413662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330413962	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330414261	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330414563	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330414862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330415162	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330415462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330415762	3	1	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330416062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330416363	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330416662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330416962	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330417262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330417562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330417862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330418163	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330418462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330419061	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330419362	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330419662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330419963	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330420262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330420562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330420862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330421162	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330421462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330421763	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330422061	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330422362	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330422662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330422962	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330423262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330423563	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330423862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330424162	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330424462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330424762	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330425062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330425363	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330425662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330425962	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330426262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330426562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330426862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330427163	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330427762	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330428062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330428362	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330428662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330428963	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330429262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330429562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330429862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330430162	3	1	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330430763	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330431062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330431962	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330432262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330435562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330437662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330437963	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330438262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330439462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330439764	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330440062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330440362	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1330440662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331145662	3	1	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331145962	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331146262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331146562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331146862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331147164	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331147461	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331147762	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331148062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331148362	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331148662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331148964	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331149262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331149562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331149862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331150162	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331150462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331150764	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331151062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331151362	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331151662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331151961	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331152261	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331152564	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331152861	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331153161	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331153461	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331153761	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331154062	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331154365	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331154662	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331154962	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331155262	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331155562	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331155862	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331156165	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331156462	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331156762	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331157062	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331157362	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331157662	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331157964	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331158262	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331158562	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331158862	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331159162	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331578262	3	1	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_load_data.pl
+1331578574	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_load_data.pl
+1331578574	1	0	Error Locking Self ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_qstat_data.pl
+1331672162	3	1	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331672462	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331672764	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331673062	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331673362	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331673962	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331676061	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331676365	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331676662	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331676962	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331677262	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331677562	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331677861	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331678164	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331678462	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331678762	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331679062	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331679362	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331679662	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331679964	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331680262	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331680562	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331680862	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331681162	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331681462	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331681764	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331682062	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331682362	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331682662	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331682961	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331683262	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331683564	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331683862	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331684162	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331684462	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331684761	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331685062	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331695562	3	1	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331695862	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331696165	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331696462	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331696762	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331697061	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331758862	3	1	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331759165	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331759462	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1331759762	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1332437767	3	1	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1332457564	3	1	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1333767407	3	1	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1333773457	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1333842002	1	1	Error Locking Self ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_condorq_data.pl
+1334684402	1	1	Error Locking Self ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_disk_usage_data.pl
+1336023602	1	1	Error Locking Self ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_disk_usage_data.pl
+1336563602	1	1	Error Locking Self ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_disk_usage_data.pl
+1337797562	3	1	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1337802662	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1337802722	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_load_data.pl
+1337802965	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1337803025	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_load_data.pl
+1337803262	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1337803322	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_load_data.pl
+1337803565	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1337803862	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1337804161	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1337804462	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1337804522	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_load_data.pl
+1337804762	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1337804822	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_load_data.pl
+1337805061	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1337805121	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_load_data.pl
+1337805394	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1337805454	3	0	Error Completing Task ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_load_data.pl
+1339047602	1	1	Error Locking Self ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_disk_usage_data.pl
+1339069202	1	1	Error Locking Self ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_disk_usage_data.pl
+1339112402	1	1	Error Locking Self ... Exiting			http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_disk_usage_data.pl
+1339155602	1	1	Error Locking Self ... Exiting			http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_disk_usage_data.pl
+1339157762	3	1	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1339161962	3	0	Error Completing Task Within 60 Seconds ... Exiting	http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_heartbeat_data.pl
+1339177202	1	1	Error Locking Self ... Exiting			http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_disk_usage_data.pl
+1339911602	1	1	Error Locking Self ... Exiting			http://brazos.tamu.edu:80/~ext-jww004/cgi-bin/tier3/mon/report_disk_usage_data.pl

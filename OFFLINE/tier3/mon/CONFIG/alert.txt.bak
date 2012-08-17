@@ -1,0 +1,149 @@
+
+<alert=ALERT_TEST>
+	<active=TRUE>
+	<text=This is simply a System Test Message>
+	<title=System Test>
+	<long=This alert code is reserved for administrative systems testing and should be disregarded by users.>
+
+<alert=PROD_QUAL>
+	<active=TRUE>
+	<text=Low Production Data Transfer Quality ([1]% PASS)>
+	<title=Data Transfer Quality>
+	<plot=transfer_quality_prod_hourly>
+	<long=PhEDEx production data transfer quality is monitored by graphically sampling the corresponding 48 hour plot (Page I) retrieved from the CMS Dashboard.  This alert is triggered if the most recent score is less than 85%.  There is no corresponding alert for absent reporting, as data transfers are inherently intermittent.>
+
+<alert=LOAD_QUAL>
+	<active=TRUE>
+	<text=Low Load Test Data Transfer Quality ([1]% PASS)>
+	<title=Load Test Transfer Quality>
+	<plot=transfer_quality_load_hourly>
+	<long=PhEDEx load test data transfer quality is monitored by graphically sampling the corresponding 48 hour plot (Page I) retrieved from the CMS Dashboard.  This alert is triggered if average score over the most recent six hours (to incorporate a full test period) is less than 70%.  Missing test blocks do not count against the average score, although there is a separate test for the presence of data reporting.>
+
+<alert=LOAD_SKIP>
+	<active=TRUE>
+	<text=Load Tests Not Running or Query Timed Out>
+	<title=Load Tests Missing>
+	<plot=transfer_quality_load_hourly>
+	<long=This alert is triggered (and supersedes the "Load Test Transfer Quality" alert) if less than 20% of the possible load test data transfer score blocks (Page I) are filled for the recent six hour interval.>
+
+<alert=PHDX_TRANSFER>
+	<active=TRUE>
+	<text=PhEDEx Not Transferring Subscribed Data ([1] of [2] at [3]/s)>
+	<title=PhEDEx Transfer>
+	<long=This alert is triggered by a slow data transfer rate in conjunction with a standing data transfer request, as reported through the PhEDEx system on Page I.  Specifically, the transfer rate must be below 10 MiB/s, the non-resident subscribed data must amount to at least 10 GiB, and either i) no data is yet resident or ii) the subscribed data total exceeds the resident data by at least 5%.
+
+<alert=GRAB_DU>
+	<active=TRUE>
+	<text=Encountered Problems with Cluster Disk Usage Statistics[1]>
+	<title=Disk Usage>
+	<long=This alert is triggered by various problems that may occur while performing a routine disk usage "du" query (Page II) on the Brazos Cluster.  The list of possible violations includes: i)The expected response from the Brazos cluster is missing; ii) The end of process self-summary of I/O status indicates errors or is missing; iii) The process run time exceeds 30 minutes, indicating a high system load or trouble with the file system - completion is typically expected in less than 5 minutes; iv) The process execution was delayed for more than three hours due to heavy loads on the Brazos cluster.  Additional details regarding the trigger mechanism(s) are provided within the alert.  Note that the monitor stops waiting for a response from the Brazos Cluster after three minutes, leaving the process to continue running in the background to be harvested on a later attempt.>
+
+<alert=DISK_QUOTA>
+	<active=TRUE>
+	<text=Disk Usage Approaching Quota ([1] of [2])>
+	<text_3=Disk Usage Exceeds Quota ([1] of [2])>
+	<title=Disk Quota>
+	<email=-galmes@tamu.edu>
+	<long=This alert is triggered if the HEPX disk usage reported by the "du" command on the Brazos Cluster (Page II) exceeds a defined threshold.>
+
+<alert=DISK_DENIED>
+	<active=TRUE>
+	<text=Disk Usage Permissions Error ([1])>
+	<title=Disk Permissions>
+	<email=-galmes@tamu.edu>
+	<long=This alert is triggered if the HEPX disk usage "du" query on the Brazos Cluster (Page II) encounters a directory whose permissions do not allow its contents to be tallied.  To fix this, all subdirectories in the user's home folder should be made group (hepx) readable and executable with the command "find ./ -type d | xargs chmod g+rx".  Note that this does not affect any permissions protecting file ownership.>
+
+<alert=PHDX_MISMATCH>
+	<active=TRUE>
+	<text=Disk Usage Mismatch ([1] Local Disk vs. [2] PhEDEx Resident)>
+	<title=PhEDEx Mismatch>
+	<long=This alert is triggered if the (Page II) data holdings reported by the PhEDEx system are not synchronized with the quantity established locally for the Monte Carlo, CMS Data and Load Test directories by use of the "du" command on the Brazos cluster.  Specifically, at least one of three criteria must be met: i) There is no local data reported; ii) The percentage difference in data exceeds 5%; iii) The absolute difference in data exceeds 100 GiB.  This alert may be triggered spuriously by temporary disagreements in reporting during heavy data transfers.>
+
+<alert=TORQUE_STALL>
+	<active=TRUE>
+	<text=Torque Queue Jobs Stalled (USER: [1])>
+	<title=Torque Stalled>
+	<long=This alert is triggered if the "qstat" command on the Brazos Cluster reports that jobs managed by the TORQUE scheduler unexpectedly exist in the "Held" or "Suspended" states.  Details of stopped jobs are highlighted in red on Page III.  The GRID and BGSC queues (within which jobs may be preempted by design) are exempted from this alert, although the red coloration is retained.>
+
+<alert=CONDOR_STALL>
+	<active=TRUE>
+	<text=Condor Queue Jobs Stalled (USER: [1])>
+	<title=Condor Stalled>
+	<long=This alert is triggered if the "condor_q" command on the Brazos Cluster reports that jobs managed by the Condor scheduler exist in the "Held" state.  Details of stopped jobs are highlighted in red on Page III.>
+
+<alert=SAM_FAIL>
+	<active=TRUE>
+	<text=SAM Tests Failing ([1]% PASS)>
+	<title=SAM Failed>
+	<plot=sam_status_hourly>
+	<long=SAM (Service Availability Monitoring) tests (Page IV) validate connection to the CMS grid and suitability of the local cluster configuration.  This alert is triggered if less than 80% of running tests are successful, when at least 10% of the expected tests are running.>
+
+<alert=SAM_SKIP>
+	<active=TRUE>
+	<text=SAM Tests Not Running or Query Timed Out>
+	<title=SAM Missing>
+	<plot=sam_status_hourly>
+	<long=This alert is triggered if less than 50% of the expected SAM tests (Page IV) have run for each of the most recent 5 hours.  It may be superseded by the more severe error "SAM Failed".  Note that data is typically unavailable for the most current 2-3 hour time interval.>
+
+<alert=CATS_FAIL>
+	<active=TRUE>
+	<text=CATS Tests Failing ([1]% PASS)>
+	<title=CATS Failed>
+	<long=The CATS (CRAB Analysis Test Suite) subsystem (Page IV) regularly submits automated best-practice standardized job sets of various sizes via various grid clients to output on either the local or a remote host.  Results are harvested from the CMS dashboard for the most recent instance of each test that has completed all included jobs.  Any single failed job will classify the test overall as a failure and any single failed test will trigger the "CATS Failed" alert.>
+
+<alert=CATS_SKIP>
+	<active=FALSE>
+	<text=CATS Tests Not Running or Query Timed Out>
+	<title=CATS Missing>
+	<long=The Dashboard query of the CATS results (Page IV) spans the most recent week.  This alert is triggered if any of the tests has no completed results available.  This alert may alternately be attributable to a timeout in the dashboard query.>
+
+<alert=GRAB_HEART>
+	<active=TRUE>
+	<text=Encountered Problems with Cluster Heartbeat Diagnostics[1]>
+	<title=Cluster Heartbeat>
+	<long=This alert is triggered by various problems that may occur while performing a set of routine heartbeat tests (Page IV) for basic connectivity and function on the Brazos Cluster.  The list of possible violations includes: i) Inability to connect via ssh from brazos to hurr; ii) Inability to detect the FData file system mount; iii) Discrepancy between the file partition size reported by "df" and a defined expectation; iv); Inability to successfully complete a short "du" query within /fdata within 15 seconds - much less than one second is nominally expected.   Additional details regarding the trigger mechanism(s) are provided within the alert.>
+
+<alert=CLUSTER_WEB>
+	<active=TRUE>
+	<text=Connection to Cluster Web Server Broken[BR][TAB](PAGE: [1])>
+	<title=Cluster Web Server>
+	<long=This alert is triggered when any web-based query of the Brazos Cluster is not met with an appropriate acknowledgement of the request.  Additional details regarding the specific request that failed are provided within the alert. Under normal operation this error should never be produced by a routine request timeout.>
+
+<alert=CLUSTER_ERR>
+	<active=TRUE>
+	<text=Daemon Initiation Failed on Cluster Web Server[BR][TAB](MESSAGE: [1])[BR][TAB](PAGE: [2])>
+	<text_3=Runtime Failure on Cluster Web Server[BR][TAB](MESSAGE: [1])[BR][TAB](PAGE: [2])>
+	<title=Cluster Server Error>
+	<long=This alert is triggered if an application running on the Brazos Cluster self-reports an error during operation.  The list of possible violations includes: i) An error creating the process lock that prevents redundant identical queries from proceeding; ii) An error forking a background child process daemon; iii) An egregious violation of the time limits allowed to complete a nominally instantaneous process.  Additional details regarding the trigger mechanism and the specific request that failed are provided within the alert.  Note that excessively slow operation of the "du" query may trigger this alert if the background process submitted in a prior cycle is still engaged at the time of the next invocation (about six hours later).>
+
+<alert=CLUSTER_NAP>
+	<active=TRUE>
+	<text=Cluster Web Server Hibernating Through Heavy System Load[BR][TAB](PAGE: [1])>
+	<title=Cluster Server Hibernating>
+	<long=This alert is intended to be informational, and is not generally a cause for alarm.  It is triggered if scripts installed on the Brazos Cluster opt to defer execution of a requested disk usage query due to heavy system loads.  Specifically, this may occur in normal operations if the GRID and HEPX queues are above 125% of capacity or if more than 8 simultaneous GridFTP file transfer processes are running.>
+
+<alert=CLUSTER_TKO>
+	<active=FALSE>
+	<text=Abandoned Cluster Web Server Response After About Three Minutes - Will Harvest From Background Later (QUERY: [1])>
+	<title=Cluster Server Timeout>
+	<email=-vaikunth@tamu.edu,-galmes@tamu.edu,-daniel.cruz@neo.tamu.edu>
+	<long=This alert is intended to be informational, and is not generally a cause for alarm.  It means that a feasibly long running query, particularly that of the disk usage but also either of the TORQUE or Condor queue summaries, was left to continue running in the background on the Brazos Cluster after failing to complete withing three minutes.  The results of such processes are harvested during the next regularly scheduled request and a new process instance is dispatched.  The identity of the responsible query is provided within the alert.>
+
+#<alert=GRAB_QSTAT>
+#	<active=TRUE>
+#	<text=Encountered Problems with TORQUE Queue Usage Statistics[1]>
+#	<title=TORQUE Queue>
+#	<long=>
+
+#<alert=GRAB_CONDORQ>
+#	<active=TRUE>
+#	<text=Encountered Problems with Condor Queue Usage Statistics[1]>
+#	<title=Condor Queue>
+#	<long=>
+
+#<alert=GRAB_LOAD>
+#	<active=TRUE>
+#	<text=Encountered Problems with Cluster Usage Load Statistics[1]>
+#	<title=Cluster Load>
+#	<long=>
+

@@ -1,0 +1,95 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head>
+
+<title>Brazos Tier 3 Data Transfer and Job Monitoring Utility</title>
+
+<META HTTP-EQUIV="Refresh" CONTENT="600">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Cache-control" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+
+<LINK rel="stylesheet" href="CSS/mon.css" type="text/css">
+
+<script type="text/javascript" language="JavaScript" src="JAVASCRIPT/mon.js"></script>
+
+<script type="text/javascript" language="JavaScript" src="JAVASCRIPT/top_up/top_up-min.js"></script>
+
+<script type="text/javascript" language="JavaScript" src="JAVASCRIPT/mon_top_up.js"></script>
+
+<script type="text/javascript" language="JavaScript" src="JAVASCRIPT/mon_top_up_map_sam_plot.js?<!--#include virtual="SSI/GLOBAL/time_updated_unix.ssi"-->"></script>
+
+</head>
+
+<body onLoad="javascript:MonitorInitialize();" style="margin:0px 0px; padding:0px; text-align:center; background-repeat:repeat; background-position:top left; background-image:url('IMAGES/GLOBAL/bg_W.gif');">
+
+<DIV id="tier3_mon_anchor" style="z-index:0; display:block; position:static; height:auto; width:826px; margin:20px auto; padding:0px; text-align:center; overflow:hidden; background-image:none;">
+
+<H1>Brazos Tier 3 Data Transfer and Job Monitoring Utility</H1>
+
+<p>
+<!--#include virtual="SSI/GLOBAL/view_page_top.ssi"-->
+<br>
+
+<p>
+<!--#include virtual="SSI/GLOBAL/time_updated_format.ssi"-->
+<br>
+
+<noscript>
+<p>
+<SPAN style="font-size:18px; font-weight:bold; color:red; background-color:transparent;">
+	Warning: You must enable JavaScript for optimal site functionality!
+</SPAN>
+<br>
+</noscript>
+
+
+<p>
+<hr>
+
+<h2>Custom Monitoring View: Guy Almes</h2>
+<p>
+<!--#include virtual="SSI/TABLES/sam_percentage.ssi"-->
+<br>
+<p>
+
+<DIV id="sam_plot_anchor" style="z-index:0; display:block; position:static; height:378px; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+	<table class="mon_default" style="width:826px; height:378px;">
+		<tr class="mon_default">
+			<td class="mon_default" style="width:400px; height:16px;">Load Test Transfer Quality</td>
+			<td class="mon_default" style="width:400px; height:16px;">Service Availability Monitoring (SAM) Tests</td>
+		</tr>
+		<tr class="mon_default">
+			<td class="mon_default" style="width:400px; height:310px;"><a id="transfer_plot_leader" href="IMAGES/PLOTS/transfer_quality_load_hourly.png?<!--#include virtual="SSI/GLOBAL/time_updated_unix.ssi"-->" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/transfer_quality_load_hourly.png?<!--#include virtual="SSI/GLOBAL/time_updated_unix.ssi"-->" alt="PhEDEx Load Test Transfer Quality (Last 48 Hours)" title="PhEDEx Load Test Transfer Quality (Last 48 Hours)" width="400" height="310"></a></td>
+			<td class="mon_default" style="width:400px; height:310px;"><a id="sam_plot_leader" href="IMAGES/PLOTS/sam_status_hourly.png?<!--#include virtual="SSI/GLOBAL/time_updated_unix.ssi"-->" target="NEW"><img class="mon_default" src="IMAGES/THUMBS/sam_status_hourly.png?<!--#include virtual="SSI/GLOBAL/time_updated_unix.ssi"-->" alt="SAM Test Status Summary (Last 48 Hours)" title="SAM Test Status Summary (Last 48 Hours)" width="400" height="310"></a></td>
+		</tr>
+		<tr class="mon_default">
+			<td class="mon_default" style="width:400px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:TopUp.displayTopUp(document.getElementById('transfer_plot_leader'));" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#FFFFFF';">&uarr; Click to Enlarge Images</td>
+			<td class="mon_default" style="width:400px; height:16px; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:TopUp.displayTopUp(document.getElementById('sam_plot_leader'));" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#FFFFFF';">Enlarged Image Links to Details &uarr;</td>
+		</tr>
+	</table>
+</DIV>
+
+<br>
+<p>
+<!--#include virtual="SSI/TABLES/qstat_data.ssi"-->
+<br>
+
+
+<p>
+<hr>
+
+<p>
+<!--#include virtual="SSI/GLOBAL/view_page_bot.ssi"-->
+<br>
+
+</DIV>
+
+</body>
+
+</html>
+
+

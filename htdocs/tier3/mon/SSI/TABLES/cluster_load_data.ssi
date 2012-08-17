@@ -1,0 +1,77 @@
+<DIV id="cluster_load_anchor" style="z-index:0; display:block; position:static; height:auto; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+	<table class="mon_default" style="height:auto; width:826px;">
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+			<td colspan="5" class="mon_default" style="width:810px; height:16px;">Brazos Cluster Load Statistics ( 2012-08-17 18:40 UTC )</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+			<td class="mon_default" style="width:154px; height:16px;">Brazos Head Load</td>
+			<td class="mon_default" style="width:154px; height:16px;">Hurr Head Load</td>
+			<td class="mon_default" style="width:154px; height:16px;">GridFTP Processes</td>
+			<td class="mon_default" style="width:154px; height:16px;">Filesystem CPU Use</td>
+			<td class="mon_default" style="width:154px; height:16px;">Filesystem Memory Use</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:154px; height:16px;">0.08</td>
+			<td class="mon_default" style="width:154px; height:16px;">0.20</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">0.0 &#37;</td>
+			<td class="mon_default" style="width:154px; height:16px;">0.0 &#37;</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+			<td class="mon_default" style="width:154px; height:16px;">Occupied Nodes</td>
+			<td class="mon_default" style="width:154px; height:16px;">Occupied Processors</td>
+			<td class="mon_default" style="width:154px; height:16px;">Load Average per CPU</td>
+			<td class="mon_default" style="width:154px; height:16px;">Physical Memory Use</td>
+			<td class="mon_default" style="width:154px; height:16px;">Virtual Memory Use</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:154px; height:16px;">88.5 &#37; of 312</td>
+			<td class="mon_default" style="width:154px; height:16px;">55.3 &#37; of 2,840</td>
+			<td class="mon_default" style="width:154px; height:16px;">181.8 &#37; of 2,840</td>
+			<td class="mon_default" style="width:154px; height:16px;">11.8 &#37; of 8.9 TiB</td>
+			<td class="mon_default" style="width:154px; height:16px;">0.0 &#37; of 20.2 TiB</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+			<td class="mon_default" style="width:154px; height:16px;">Queue</td>
+			<td class="mon_default" style="width:154px; height:16px;">Job Capacity</td>
+			<td class="mon_default" style="width:154px; height:16px;">Jobs Running</td>
+			<td class="mon_default" style="width:154px; height:16px;">Jobs Queued</td>
+			<td class="mon_default" style="width:154px; height:16px;">Other Jobs</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:154px; height:16px;">GRID</td>
+			<td class="mon_default" style="width:154px; height:16px;">256</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:154px; height:16px;">HEPX</td>
+			<td class="mon_default" style="width:154px; height:16px;">320</td>
+			<td class="mon_default" style="width:154px; height:16px;">264</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:154px; height:16px;">HEPX ROUTING</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:154px; height:16px;">BGSC</td>
+			<td class="mon_default" style="width:154px; height:16px;">320</td>
+			<td class="mon_default" style="width:154px; height:16px;">188</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:154px; height:16px;">BGSC ROUTING</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+			<td class="mon_default" style="width:154px; height:16px;">0</td>
+		</tr>
+	</table>
+</DIV>

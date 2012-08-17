@@ -1,0 +1,222 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head>
+
+<title>Brazos Tier 3 Data Transfer and Job Monitoring Utility</title>
+
+<META HTTP-EQUIV="Content-Type" content="text/html;charset=utf-8">
+<META HTTP-EQUIV="Refresh" CONTENT="600">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Cache-control" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+
+<LINK rel="stylesheet" href="CSS/mon.css" type="text/css">
+
+<STYLE type="text/css">
+A#page_5_top, A#page_5_bot,
+A#page_5_top:link, A#page_5_bot:link,
+A#page_5_top:visited, A#page_5_bot:visited {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	color: #3BB9FF;
+	background-color: inherit; }
+</STYLE>
+
+<script type="text/javascript" language="JavaScript" src="JAVASCRIPT/mon.js"></script>
+
+<script type="text/javascript" language="JavaScript" src="JAVASCRIPT/top_up/top_up-min.js"></script>
+
+<script type="text/javascript" language="JavaScript" src="JAVASCRIPT/mon_top_up.js"></script>
+
+</head>
+
+<body onLoad="javascript:MonitorInitialize();" style="margin:0px 0px; padding:0px; text-align:center; background-repeat:repeat; background-position:top left; background-image:url('IMAGES/GLOBAL/bg_W.gif');">
+
+<DIV id="tier3_mon_anchor" style="z-index:0; display:block; position:static; height:auto; width:826px; margin:20px auto; padding:0px; text-align:center; overflow:hidden; background-image:none;">
+
+<H1>Brazos Tier 3 Data Transfer and Job Monitoring Utility</H1>
+
+<p>
+<!--#include virtual="SSI/GLOBAL/view_page_top.ssi"-->
+<br>
+
+<p>
+<!--#include virtual="SSI/GLOBAL/time_updated_format.ssi"-->
+<br>
+
+<noscript>
+<p>
+<SPAN style="font-size:18px; font-weight:bold; color:red; background-color:transparent;">
+	Warning: You must enable JavaScript for optimal site functionality!
+</SPAN>
+<br>
+</noscript>
+
+
+<p>
+<hr>
+
+<h2>Alert Summary</h2>
+<p>
+<DIV id="alert_data_anchor" style="z-index:0; display:block; position:static; height:auto; width:826px; margin:0px 0px; padding:0px; text-align:center; overflow:hidden;">
+	<table class="mon_default" style="width:826px; height:auto;">
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Alert System Test</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#E9FBFA;">This alert code is reserved for administrative systems testing and should be disregarded by users.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:#FFFFFF;">Alert has NULL Status</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Data Transfer Quality</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#B3F3F0;">PhEDEx production data transfer quality is monitored by graphically sampling the corresponding 48 hour plot (Page I) retrieved from the CMS Dashboard.  This alert is triggered if the most recent score is less than 85%.  There is no corresponding alert for absent reporting, as data transfers are inherently intermittent.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:orange;">Test Status: UNKNOWN<br>No Result for 24 Hours</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Load Test Transfer Quality</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#E9FBFA;">PhEDEx load test data transfer quality is monitored by graphically sampling the corresponding 48 hour plot (Page I) retrieved from the CMS Dashboard.  This alert is triggered if average score over the most recent six hours (to incorporate a full test period) is less than 70%.  Missing test blocks do not count against the average score, although there is a separate test for the presence of data reporting.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:orange;">Test Status: UNKNOWN<br>No Result for 24 Hours</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Load Tests Missing</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#B3F3F0;">This alert is triggered (and supersedes the "Load Test Transfer Quality" alert) if less than 20% of the possible load test data transfer score blocks (Page I) are filled for the recent six hour interval.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:orange;">Test Status: UNKNOWN<br>No Result for 24 Hours</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">PhEDEx Transfer</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#E9FBFA;">This alert is triggered by a slow data transfer rate in conjunction with a standing data transfer request, as reported through the PhEDEx system on Page I.  Specifically, the transfer rate must be below 10 MiB/s, the non-resident subscribed data must amount to at least 10 GiB, and either i) no data is yet resident or ii) the subscribed data total exceeds the resident data by at least 5%.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:green;">Test Status: PASSED<br>Friday, 2012-08-17 18:35 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Disk Usage</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#B3F3F0;">This alert is triggered by various problems that may occur while performing a routine disk usage "du" query (Page II) on the Brazos Cluster.  The list of possible violations includes: i)The expected response from the Brazos cluster is missing; ii) The end of process self-summary of I/O status indicates errors or is missing; iii) The process run time exceeds 30 minutes, indicating a high system load or trouble with the file system - completion is typically expected in less than 5 minutes; iv) The process execution was delayed for more than three hours due to heavy loads on the Brazos cluster.  Additional details regarding the trigger mechanism(s) are provided within the alert.  Note that the monitor stops waiting for a response from the Brazos Cluster after three minutes, leaving the process to continue running in the background to be harvested on a later attempt.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:green;">Test Status: PASSED<br>Friday, 2012-08-17 17:42 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Disk Quota</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#E9FBFA;">This alert is triggered if the HEPX disk usage reported by the "du" command on the Brazos Cluster (Page II) exceeds a defined threshold.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:green;">Test Status: PASSED<br>Friday, 2012-08-17 18:35 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Disk Permissions</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#B3F3F0;">This alert is triggered if the HEPX disk usage "du" query on the Brazos Cluster (Page II) encounters a directory whose permissions do not allow its contents to be tallied.  To fix this, all subdirectories in the user's home folder should be made group (hepx) readable and executable with the command "find ./ -type d | xargs chmod g+rx".  Note that this does not affect any permissions protecting file ownership.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:green;">Test Status: PASSED<br>Friday, 2012-08-17 17:42 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">PhEDEx Mismatch</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#E9FBFA;">This alert is triggered if the (Page II) data holdings reported by the PhEDEx system are not synchronized with the quantity established locally for the Monte Carlo, CMS Data and Load Test directories by use of the "du" command on the Brazos cluster.  Specifically, at least one of three criteria must be met: i) There is no local data reported; ii) The percentage difference in data exceeds 5%; iii) The absolute difference in data exceeds 100 GiB.  This alert may be triggered spuriously by temporary disagreements in reporting during heavy data transfers.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:green;">Test Status: PASSED<br>Friday, 2012-08-17 18:35 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Torque Stalled</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#B3F3F0;">This alert is triggered if the "qstat" command on the Brazos Cluster reports that jobs managed by the TORQUE scheduler unexpectedly exist in the "Held" or "Suspended" states.  Details of stopped jobs are highlighted in red on Page III.  The GRID and BGSC queues (within which jobs may be preempted by design) are exempted from this alert, although the red coloration is retained.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:green;">Test Status: PASSED<br>Friday, 2012-08-17 18:35 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Condor Stalled</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#E9FBFA;">This alert is triggered if the "condor_q" command on the Brazos Cluster reports that jobs managed by the Condor scheduler exist in the "Held" state.  Details of stopped jobs are highlighted in red on Page III.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:green;">Test Status: PASSED<br>Friday, 2012-08-17 18:35 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">SAM Failed</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#B3F3F0;">SAM (Service Availability Monitoring) tests (Page IV) validate connection to the CMS grid and suitability of the local cluster configuration.  This alert is triggered if less than 80% of running tests are successful, when at least 10% of the expected tests are running.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:orange;">Test Status: UNKNOWN<br>No Result for 24 Hours</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">SAM Missing</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#E9FBFA;">This alert is triggered if less than 50% of the expected SAM tests (Page IV) have run for each of the most recent 5 hours.  It may be superseded by the more severe error "SAM Failed".  Note that data is typically unavailable for the most current 2-3 hour time interval.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:red;">Test Status: FAILED<br>Friday, 2012-08-17 18:35 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">CATS Failed</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#B3F3F0;">The CATS (CRAB Analysis Test Suite) subsystem (Page IV) regularly submits automated best-practice standardized job sets of various sizes via various grid clients to output on either the local or a remote host.  Results are harvested from the CMS dashboard for the most recent instance of each test that has completed all included jobs.  Any single failed job will classify the test overall as a failure and any single failed test will trigger the "CATS Failed" alert.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:green;">Test Status: PASSED<br>Friday, 2012-08-17 18:35 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">CATS Missing</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#E9FBFA;">The Dashboard query of the CATS results (Page IV) spans the most recent week.  This alert is triggered if any of the tests has no completed results available.  This alert may alternately be attributable to a timeout in the dashboard query.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:green;">Test Status: PASSED<br>Friday, 2012-08-17 18:35 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Cluster Heartbeat</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#B3F3F0;">This alert is triggered by various problems that may occur while performing a set of routine heartbeat tests (Page IV) for basic connectivity and function on the Brazos Cluster.  The list of possible violations includes: i) Inability to connect via ssh from brazos to hurr; ii) Inability to detect the FData file system mount; iii) Discrepancy between the file partition size reported by "df" and a defined expectation; iv); Inability to successfully complete a short "du" query within /fdata within 15 seconds - much less than one second is nominally expected.   Additional details regarding the trigger mechanism(s) are provided within the alert.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:green;">Test Status: PASSED<br>Friday, 2012-08-17 18:35 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Cluster Web Server</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#E9FBFA;">This alert is triggered when any web-based query of the Brazos Cluster is not met with an appropriate acknowledgement of the request.  Additional details regarding the specific request that failed are provided within the alert. Under normal operation this error should never be produced by a routine request timeout.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:green;">Test Status: PASSED<br>Friday, 2012-08-17 18:35 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Cluster Server Error</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#B3F3F0;">This alert is triggered if an application running on the Brazos Cluster self-reports an error during operation.  The list of possible violations includes: i) An error creating the process lock that prevents redundant identical queries from proceeding; ii) An error forking a background child process daemon; iii) An egregious violation of the time limits allowed to complete a nominally instantaneous process.  Additional details regarding the trigger mechanism and the specific request that failed are provided within the alert.  Note that excessively slow operation of the "du" query may trigger this alert if the background process submitted in a prior cycle is still engaged at the time of the next invocation (about six hours later).</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:green;">Test Status: PASSED<br>Friday, 2012-08-17 18:35 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Cluster Server Hibernating</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#E9FBFA;">This alert is intended to be informational, and is not generally a cause for alarm.  It is triggered if scripts installed on the Brazos Cluster opt to defer execution of a requested disk usage query due to heavy system loads.  Specifically, this may occur in normal operations if the GRID and HEPX queues are above 125% of capacity or if more than 8 simultaneous GridFTP file transfer processes are running.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:green;">Test Status: PASSED<br>Friday, 2012-08-17 17:42 UTC</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:16px; color:black; background-color:#20B2AA;">Cluster Server Timeout</td>
+			<td class="mon_inset" rowspan="2" style="width:566px; height:auto; text-align:justify; color:black; background-color:#B3F3F0;">This alert is intended to be informational, and is not generally a cause for alarm.  It means that a feasibly long running query, particularly that of the disk usage but also either of the TORQUE or Condor queue summaries, was left to continue running in the background on the Brazos Cluster after failing to complete within three minutes.  The results of such processes are harvested during the next regularly scheduled request and a new process instance is dispatched.  The identity of the responsible query is provided within the alert.</td>
+		</tr>
+		<tr class="mon_default" style="color:black; background-color:#FFFFFF;">
+			<td class="mon_default" style="width:210px; height:auto; color:black; background-color:#FFFFFF;">Alert is Disabled</td>
+		</tr>
+	</table>
+</DIV>
+<br>
+
+<p>
+<hr>
+
+<p>
+<!--#include virtual="SSI/GLOBAL/view_page_bot.ssi"-->
+<br>
+
+</DIV>
+
+</body>
+
+</html>
+

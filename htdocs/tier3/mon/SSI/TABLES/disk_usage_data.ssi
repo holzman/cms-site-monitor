@@ -1,0 +1,247 @@
+<DIV id="disk_usage_data_anchor" style="z-index:0; display:block; position:static; height:auto; width:274px; margin:0px 276px; padding:0px; text-align:center; overflow:hidden;">
+	<table class="mon_default" style="height:auto; width:274px;">
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF;">
+			<td colspan="2" class="mon_default" style="width:258px; height:16px;">HEPX Disk Store Usage</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+			<td class="mon_default" style="width:166px; height:16px;">Directory</td>
+			<td class="mon_default" style="width:82px; height:16px;">Bytes</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_select_0" style="display:block; color:black; background-color:#30CCAA; cursor:pointer;" onClick="javascript:DiskUsageDataToggle(0);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#30CCAA';">
+			<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent;">
+				<DIV style="position:relative; left:0px; top:0px; width:166px; height:16px; padding:0px; display:block;">PhEDEx Monte Carlo
+					<DIV id="disk_usage_data_indicator_0_0" style="position:absolute; top:-2px; left:0px; display:block;">&rarr;</DIV>
+					<DIV id="disk_usage_data_indicator_0_1" style="position:absolute; top:-2px; left:0px; display:none;">&darr;</DIV>
+				</DIV>
+			</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">12.3 TiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_0" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Summer12</td>
+			<td class="mon_default" style="width:82px; height:16px;">12.1 TiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_1" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Hc</td>
+			<td class="mon_default" style="width:82px; height:16px;">159.6 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_2" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Fall11</td>
+			<td class="mon_default" style="width:82px; height:16px;">47.8 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_3" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Sam</td>
+			<td class="mon_default" style="width:82px; height:16px;">15.5 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_4" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Summer11</td>
+			<td class="mon_default" style="width:82px; height:16px;">9.4 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_0_5" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Spring11</td>
+			<td class="mon_default" style="width:82px; height:16px;">2.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_select_1" style="display:block; color:black; background-color:#30CCAA; cursor:pointer;" onClick="javascript:DiskUsageDataToggle(1);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#30CCAA';">
+			<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent;">
+				<DIV style="position:relative; left:0px; top:0px; width:166px; height:16px; padding:0px; display:block;">PhEDEx CMS Data
+					<DIV id="disk_usage_data_indicator_1_0" style="position:absolute; top:-2px; left:0px; display:block;">&rarr;</DIV>
+					<DIV id="disk_usage_data_indicator_1_1" style="position:absolute; top:-2px; left:0px; display:none;">&darr;</DIV>
+				</DIV>
+			</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">5.4 TiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_1_0" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Run2012b</td>
+			<td class="mon_default" style="width:82px; height:16px;">5.4 TiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_1_1" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Run2012a</td>
+			<td class="mon_default" style="width:82px; height:16px;">29.4 MiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_1_2" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Run2011b</td>
+			<td class="mon_default" style="width:82px; height:16px;">17.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_1_3" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Run2011a</td>
+			<td class="mon_default" style="width:82px; height:16px;">11.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_1_4" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Run2012c</td>
+			<td class="mon_default" style="width:82px; height:16px;">4.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_1_5" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Fall11</td>
+			<td class="mon_default" style="width:82px; height:16px;">2.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_select_2" style="display:block; color:black; background-color:#30CCAA; cursor:pointer;" onClick="javascript:DiskUsageDataToggle(2);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#30CCAA';">
+			<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent;">
+				<DIV style="position:relative; left:0px; top:0px; width:166px; height:16px; padding:0px; display:block;">PhEDEx Load Tests
+					<DIV id="disk_usage_data_indicator_2_0" style="position:absolute; top:-2px; left:0px; display:block;">&rarr;</DIV>
+					<DIV id="disk_usage_data_indicator_2_1" style="position:absolute; top:-2px; left:0px; display:none;">&darr;</DIV>
+				</DIV>
+			</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">11.1 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_0" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">DE_KIT</td>
+			<td class="mon_default" style="width:82px; height:16px;">4.1 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_1" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">US_FNAL</td>
+			<td class="mon_default" style="width:82px; height:16px;">2.2 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_2" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">US_Caltech</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.6 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_3" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">FR_CCIN2P3</td>
+			<td class="mon_default" style="width:82px; height:16px;">960.3 MiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_4" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">ES_PIC</td>
+			<td class="mon_default" style="width:82px; height:16px;">870.9 MiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_5" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">US_Florida</td>
+			<td class="mon_default" style="width:82px; height:16px;">513.3 MiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_6" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">TW_ASGC</td>
+			<td class="mon_default" style="width:82px; height:16px;">505.5 MiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_7" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">CH_CERN</td>
+			<td class="mon_default" style="width:82px; height:16px;">454.3 MiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_8" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">IT_CNAF</td>
+			<td class="mon_default" style="width:82px; height:16px;">2.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_9" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">US_Purdue</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_10" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">UK_RAL</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_11" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">US_Wisconsin</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_12" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">US_Nebraska</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_2_13" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">US_Vanderbilt</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_select_3" style="display:block; color:black; background-color:#30CCAA; cursor:pointer;" onClick="javascript:DiskUsageDataToggle(3);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#30CCAA';">
+			<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent;">
+				<DIV style="position:relative; left:0px; top:0px; width:166px; height:16px; padding:0px; display:block;">User Output
+					<DIV id="disk_usage_data_indicator_3_0" style="position:absolute; top:-2px; left:0px; display:block;">&rarr;</DIV>
+					<DIV id="disk_usage_data_indicator_3_1" style="position:absolute; top:-2px; left:0px; display:none;">&darr;</DIV>
+				</DIV>
+			</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">29.3 TiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_0" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Roy J. Montalvo</td>
+			<td class="mon_default" style="width:82px; height:16px;">21.4 TiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_1" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Diamond</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.2 TiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_2" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Alexx Perloff</td>
+			<td class="mon_default" style="width:82px; height:16px;">1.2 TiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_3" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Tai Sakuma</td>
+			<td class="mon_default" style="width:82px; height:16px;">890.5 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_4" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Jeffrey Roe</td>
+			<td class="mon_default" style="width:82px; height:16px;">487.4 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_5" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Vadim Khotilovich</td>
+			<td class="mon_default" style="width:82px; height:16px;">477.0 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_6" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Sean Yeager</td>
+			<td class="mon_default" style="width:82px; height:16px;">273.2 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_7" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Indara Suarez</td>
+			<td class="mon_default" style="width:82px; height:16px;">186.4 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_8" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Alfredo Gurrola</td>
+			<td class="mon_default" style="width:82px; height:16px;">45.4 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_9" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Vaikunth Thukral</td>
+			<td class="mon_default" style="width:82px; height:16px;">18.4 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_10" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Ji Eun Kim</td>
+			<td class="mon_default" style="width:82px; height:16px;">10.2 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_11" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Aysen Tatarinov</td>
+			<td class="mon_default" style="width:82px; height:16px;">10.1 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_12" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Will Flanagan</td>
+			<td class="mon_default" style="width:82px; height:16px;">217.3 MiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_13" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Daniel J. Cruz</td>
+			<td class="mon_default" style="width:82px; height:16px;">72.8 MiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_3_14" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Christopher Davis</td>
+			<td class="mon_default" style="width:82px; height:16px;">2.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_select_4" style="display:block; color:black; background-color:#30CCAA; cursor:pointer;" onClick="javascript:DiskUsageDataToggle(4);" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#30CCAA';">
+			<td class="mon_default" style="width:166px; height:16px; color:inherit; background-color:transparent;">
+				<DIV style="position:relative; left:0px; top:0px; width:166px; height:16px; padding:0px; display:block;">Miscellaneous
+					<DIV id="disk_usage_data_indicator_4_0" style="position:absolute; top:-2px; left:0px; display:block;">&rarr;</DIV>
+					<DIV id="disk_usage_data_indicator_4_1" style="position:absolute; top:-2px; left:0px; display:none;">&darr;</DIV>
+				</DIV>
+			</td>
+			<td class="mon_default" style="width:82px; height:16px; color:inherit; background-color:transparent;">12.7 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_4_0" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Generator</td>
+			<td class="mon_default" style="width:82px; height:16px;">8.9 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_4_1" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Relval</td>
+			<td class="mon_default" style="width:82px; height:16px;">3.8 GiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_4_2" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Unmerged</td>
+			<td class="mon_default" style="width:82px; height:16px;">7.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_4_3" style="display:none; color:black; background-color:#B3F3F0;">
+			<td class="mon_default" style="width:166px; height:16px;">Generators</td>
+			<td class="mon_default" style="width:82px; height:16px;">3.0 KiB</td>
+		</tr>
+		<tr class="mon_default" id="disk_usage_data_element_4_4" style="display:none; color:black; background-color:#E9FBFA;">
+			<td class="mon_default" style="width:166px; height:16px;">Temp</td>
+			<td class="mon_default" style="width:82px; height:16px;">2.0 KiB</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#20B2AA;">
+			<td class="mon_default" style="width:166px; height:16px;">Total</td>
+			<td class="mon_default" style="width:82px; height:16px;">47.0 TiB</td>
+		</tr>
+		<tr class="mon_default" style="display:block; color:black; background-color:#FFFFFF; cursor:pointer;" onClick="javascript:DiskUsageDataToggleAll();" onMouseOver="javascript:this.style.backgroundColor='#3BB9FF';" onMouseOut="javascript:this.style.backgroundColor='#FFFFFF';">
+			<td colspan="2" class="mon_default" style="width:258px; height:16px; color:inherit; background-color:transparent;">&uarr; Click to Expand or Collapse Table</td>
+		</tr>
+	</table>
+</DIV>

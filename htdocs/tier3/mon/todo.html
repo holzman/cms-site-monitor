@@ -1,0 +1,66 @@
+
+<html>
+<head><title>CMS Data Transfer Monitoring Utility To Do List</title></head>
+<body>
+
+<h1 align="center">Information to Display</h1>
+
+<h2>Data on Brazos</h2>
+<ul>
+<li> <a href="https://cmsweb.cern.ch/phedex/prod/Data::Subscriptions?col=REQUEST&col=ITEM_LEVEL&col=ITEM_NAME&col=NODE_NAME&col=PRIORITY&col=IS_CUSTODIAL&col=USER_GROUP&col=NODE_FILES&col=NODE_BYTES&col=PCT_BYTES&col=IS_MOVE&col=TIME_SUSPEND_UNTIL&col=TIME_CREATE&node=1441&reqfilter=&filter=.*&priority=any&suspended=any&custodial=any&group=any&view=global">Data Sets at A&amp;M</a> </li>
+<li> PhEDEx: Subscribed and Resident </li>
+<li> /data/hepxadmin/store/user </li>
+<li> Table: Replicate Resident/Subscribed usage on Netvibes + "du" from Brazos (Current) </li>
+<li> Plot: Resident/Subscribed + Brazos "du" disk usage histogram (30 Days at midnight) </li>
+</ul>
+
+<h2>Data Transfers to Brazos</h2>
+<ul>
+<li> <a href="https://cmsweb.cern.ch/phedex/prod/Activity::Rate?span=h&tofilter=T3_US_TAMU&andor=or&fromfilter=T3_US_TAMU">PhEDEx Data Transfers</a> </li>
+<li> <a href="https://cmsweb.cern.ch/phedex/debug/Activity::Rate?span=d&errors=on&tofilter=T3_US_TAMU&andor=or&fromfilter=T3_US_TAMU">PhEDEx Load Tests</a> </li>
+<li> <a href="https://cas.shsu.edu/owa/redir.aspx?C=0b2d98f57d0c4cb69d485976dbdcb081&URL=https%3a%2f%2fcmsweb.cern.ch%2fphedex%2fdebug%2fComponents%3a%3aLinks%3ffrom_filter%3dT*%26andor%3dand%26to_filter%3dT3_US_TAMU%26Update%3dUpdate">Link Status</a> </li>
+<li> <a href="http://collider.physics.tamu.edu/tier3/mon/">Monitoring Page</a> </li>
+<li> Import miscellaneous useful data from Netvibes </li>
+<li> Plot: Transfer Quality and Transfer Rate plots from CMSWEB </li>
+<li> Plot: Amount of data imported in last (day,week,month) </li>
+<li> Table: Any Errors ... Report Alarms </li>
+<li> Inquire about Latency and Rate vs. Avg. Est. Rate </li>
+<li> Inquire about Red/Green Transfer Quality Index Formula </li>
+<li> Load Test Checks for: (CalTech, FNAL, Nebraska, CERN, Wisconsin) </li>
+</ul>
+
+<h2>Running Jobs on Brazos</h2>
+<ul>
+<li> <a href="http://brazos.tamu.edu/projacct.php?ticket=ST-751241-EnCvj3AQ5oCrInaGDwuD-cas-node-1.tamu.edu">Jobs and CPU Hours at A&amp;M</a> </li>
+<li> <a href="http://dashb-cms-job.cern.ch/dashboard/request.py/jobsummary#user=&site=T3_US_TAMU&ce=&submissiontool=&dataset=&application=&rb=&activity=&grid=&date1=2011-06-07%2016%3A06%3A00&date2=2011-06-08%2016%3A06%3A00&sortby=activity&nbars=&scale=linear&jobtype=&tier=&check=submitted">CMS Dashboard</a> </li>
+<li> <a href="http://dashb-ssb.cern.ch/dashboard/request.py/siteview?site=T3_US_TAMU">Site Status Dashboard</a> </li>
+<li>CPU Hours in last (day,week,month)</li>
+<li>Plot: CPU Hours/Month for last 6 months</li>
+<li>Plot: CPU Hours/Week for last 10 weeks</li>
+<li>Plot: CPU Hours/Day for last 1 month</li>
+<li>Table: Failures per Job</li>
+</ul>
+
+<h1 align="center">Alarm Criteria</h1>
+
+<h2>Data on Brazos</h2>
+<ul>
+<li>Disk usage above 29 TB</li>
+</ul>
+
+<h2>Data Transfers to Brazos</h2>
+<ul>
+<li>Transfer Errors / Low Rates</li>
+<li>Expired Files</li>
+<li>CMS Plots return "No Data Returned by Query"</li>
+<li>Load Test Transfer Rate &lt; XX or &gt; XX </li>
+<li>Production Transfer Rate &lt; 10 or &gt; 200 (and subscribed > resident) </li>
+</ul>
+
+<h2>Running Jobs on Brazos</h2>
+<ul>
+<li>CPU Hour Usage Anomalies</li>
+</ul>
+
+</body>
+</html>
