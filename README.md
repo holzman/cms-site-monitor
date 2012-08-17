@@ -14,7 +14,7 @@ https://hypernews.cern.ch/HyperNews/CMS/get/comp-monitoring/55.html
 
 The lead author of the software is available by email here:
 
-jwalker@shsu.edu
+jwalker AT shsu.edu
 
 This package is simply an archive of the main programs
 in use at Texas A&M.  As such, it is not yet configured
